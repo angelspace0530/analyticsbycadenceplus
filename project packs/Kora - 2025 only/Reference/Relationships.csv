@@ -1,0 +1,9 @@
+﻿parent_table,parent_key,child_table,child_key,relationship
+regions,region_id,branches,region_id,one to many
+regions,region_id,customers,region_id,one to many
+customers,customer_id,orders,customer_id,one to many
+branches,branch_id,orders,branch_id,one to many
+orders,order_id,order_lines,order_id,one to many
+products,product_id,order_lines,product_id,one to many
+orders,order_id,deliveries,order_id,one to many
+branches,branch_id,deliveries,branch_id,one to many

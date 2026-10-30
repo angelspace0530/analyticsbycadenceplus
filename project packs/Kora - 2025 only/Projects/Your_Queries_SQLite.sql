@@ -1,0 +1,15 @@
+-- Kora free starter. Your working query file.
+-- Start by inspecting the tables, then write your own answers.
+SELECT * FROM orders LIMIT 10;
+SELECT * FROM order_lines LIMIT 10;
+SELECT * FROM deliveries LIMIT 10;
+
+-- Project 1: Summarise orders placed by month.
+-- Next: separate cancelled order value from non-cancelled order value.
+-- Next: calculate cancellation rate at order grain.
+-- Next: compare categories and calculate a weighted discount rate.
+
+-- Project 2: Count delivered, failed and unresolved consignments separately.
+-- Next: calculate on-time rate among Delivered consignments.
+-- Next: find unresolved promises that were overdue at 2025-12-31.
+-- Before joining order_lines to deliveries, aggregate each to order grain.

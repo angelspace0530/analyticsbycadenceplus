@@ -1,0 +1,55 @@
+﻿product_id,product_name,category,unit_of_measure,launch_date,is_active
+SKU000001,Business laptop Essential,Computing,Each,2023-01-01,1
+SKU000002,Business laptop Standard,Computing,Each,2023-01-01,1
+SKU000003,Business laptop Premium,Computing,Each,2023-01-01,1
+SKU000004,Desktop workstation Essential,Computing,Each,2023-01-01,1
+SKU000005,Desktop workstation Standard,Computing,Each,2023-01-01,1
+SKU000006,Desktop workstation Premium,Computing,Each,2023-01-01,1
+SKU000007,Office printer Essential,Print & display,Each,2023-01-01,1
+SKU000008,Office printer Standard,Print & display,Each,2023-01-01,1
+SKU000009,Office printer Premium,Print & display,Each,2023-01-01,1
+SKU000010,Monitor Essential,Print & display,Each,2023-01-01,1
+SKU000011,Monitor Standard,Print & display,Each,2023-01-01,1
+SKU000012,Monitor Premium,Print & display,Each,2023-01-01,1
+SKU000013,Wireless router Essential,Networking,Each,2023-01-01,1
+SKU000014,Wireless router Standard,Networking,Each,2023-01-01,1
+SKU000015,Wireless router Premium,Networking,Each,2023-01-01,1
+SKU000016,Keyboard and mouse kit Essential,Accessories,Each,2023-01-01,1
+SKU000017,Keyboard and mouse kit Standard,Accessories,Each,2023-01-01,1
+SKU000018,Keyboard and mouse kit Premium,Accessories,Each,2023-01-01,1
+SKU000019,Ergonomic chair Essential,Seating,Each,2023-01-01,1
+SKU000020,Ergonomic chair Standard,Seating,Each,2023-01-01,1
+SKU000021,Ergonomic chair Premium,Seating,Each,2023-01-01,1
+SKU000022,Workstation desk Essential,Desks,Each,2023-01-01,1
+SKU000023,Workstation desk Standard,Desks,Each,2023-01-01,1
+SKU000024,Workstation desk Premium,Desks,Each,2023-01-01,1
+SKU000025,Filing cabinet Essential,Storage,Each,2023-01-01,1
+SKU000026,Filing cabinet Standard,Storage,Each,2023-01-01,1
+SKU000027,Filing cabinet Premium,Storage,Each,2023-01-01,1
+SKU000028,Meeting table Essential,Meeting rooms,Each,2023-01-01,1
+SKU000029,Meeting table Standard,Meeting rooms,Each,2023-01-01,1
+SKU000030,Meeting table Premium,Meeting rooms,Each,2023-01-01,1
+SKU000031,Visitor chair Essential,Seating,Each,2023-01-01,1
+SKU000032,Visitor chair Standard,Seating,Each,2023-01-01,1
+SKU000033,Visitor chair Premium,Seating,Each,2023-01-01,1
+SKU000034,Reception unit Essential,Fit-out,Each,2023-01-01,1
+SKU000035,Reception unit Standard,Fit-out,Each,2023-01-01,1
+SKU000036,Reception unit Premium,Fit-out,Each,2023-01-01,1
+SKU000037,Paper carton Essential,Stationery,Pack,2023-01-01,1
+SKU000038,Paper carton Standard,Stationery,Pack,2023-01-01,1
+SKU000039,Paper carton Premium,Stationery,Pack,2023-01-01,1
+SKU000040,Office stationery kit Essential,Stationery,Pack,2023-01-01,1
+SKU000041,Office stationery kit Standard,Stationery,Pack,2023-01-01,1
+SKU000042,Office stationery kit Premium,Stationery,Pack,2023-01-01,1
+SKU000043,Toner cartridge Essential,Consumables,Pack,2023-01-01,1
+SKU000044,Toner cartridge Standard,Consumables,Pack,2023-01-01,1
+SKU000045,Toner cartridge Premium,Consumables,Pack,2023-01-01,1
+SKU000046,Cleaning supplies pack Essential,Facility supplies,Pack,2023-01-01,1
+SKU000047,Cleaning supplies pack Standard,Facility supplies,Pack,2023-01-01,1
+SKU000048,Cleaning supplies pack Premium,Facility supplies,Pack,2023-01-01,1
+SKU000049,Pantry supplies carton Essential,Facility supplies,Pack,2023-01-01,1
+SKU000050,Pantry supplies carton Standard,Facility supplies,Pack,2023-01-01,1
+SKU000051,Pantry supplies carton Premium,Facility supplies,Pack,2023-01-01,1
+SKU000052,Packing materials kit Essential,Packaging,Pack,2023-01-01,1
+SKU000053,Packing materials kit Standard,Packaging,Pack,2023-01-01,1
+SKU000054,Packing materials kit Premium,Packaging,Pack,2023-01-01,1

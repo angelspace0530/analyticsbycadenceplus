@@ -1,0 +1,21 @@
+{
+  "row_counts": {
+    "regions": 6,
+    "branches": 6,
+    "customers": 1100,
+    "products": 54,
+    "orders": 6001,
+    "order_lines": 15491,
+    "deliveries": 6408
+  },
+  "money_ngn": {
+    "gross_order_value_ngn": "21021553238.5",
+    "discount_value_ngn": "3308287205.50",
+    "net_order_value_ngn": "17713266033.00"
+  },
+  "order_date_range": [
+    "2025-01-01",
+    "2025-12-31"
+  ],
+  "cutoff": "2025-12-31"
+}

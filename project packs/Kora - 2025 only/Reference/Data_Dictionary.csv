@@ -1,0 +1,46 @@
+﻿table,column,type,allows_blank,description
+regions,region_id,TEXT,no,Unique region key
+regions,region_name,TEXT,no,Customer or branch region name
+regions,country,TEXT,no,Country name
+branches,branch_id,TEXT,no,Unique fulfilment branch key
+branches,branch_name,TEXT,no,Distribution centre name
+branches,region_id,TEXT,no,Branch region key linked to regions
+branches,city,TEXT,no,Branch city
+customers,customer_id,TEXT,no,Unique customer key
+customers,customer_name,TEXT,no,Fictional organisation name
+customers,region_id,TEXT,no,Customer region key linked to regions
+customers,industry,TEXT,no,Customer industry
+customers,segment,TEXT,no,Customer segment
+products,product_id,TEXT,no,Unique product key
+products,product_name,TEXT,no,Product description
+products,category,TEXT,no,Product category
+products,unit_of_measure,TEXT,no,Unit used for ordered quantity
+products,launch_date,DATE,no,Product launch date
+products,is_active,INTEGER,no,Active at snapshot 1 or inactive 0
+orders,order_id,TEXT,no,Unique order key one row per order
+orders,order_date,DATE,no,Date the order was placed
+orders,customer_id,TEXT,no,Customer key linked to customers
+orders,branch_id,TEXT,no,Fulfilling branch key linked to branches
+orders,channel,TEXT,no,Order channel
+orders,promised_delivery_date,DATE,no,Original delivery promise for the order
+orders,status,TEXT,no,Order status at 31 December 2025
+orders,cancellation_reason,TEXT,yes,Reason when cancelled otherwise blank
+order_lines,order_line_id,TEXT,no,Unique order line key one product line on an order
+order_lines,order_id,TEXT,no,Order key linked to orders
+order_lines,product_id,TEXT,no,Product key linked to products
+order_lines,ordered_quantity,INTEGER,no,Units requested on the line
+order_lines,list_unit_price_ngn,MONEY,no,List price per unit in NGN
+order_lines,discount_percent,INTEGER,no,Line discount expressed as 5 for five percent
+order_lines,gross_order_value_ngn,MONEY,no,Ordered quantity times list unit price before discount
+order_lines,discount_value_ngn,MONEY,no,Discount amount on the line in NGN
+order_lines,net_order_value_ngn,MONEY,no,Gross order value less discount before tax
+deliveries,delivery_id,TEXT,no,Unique consignment key one row per consignment
+deliveries,order_id,TEXT,no,Order key linked to orders multiple consignments are possible
+deliveries,branch_id,TEXT,no,Dispatching branch key linked to branches
+deliveries,carrier,TEXT,no,Delivery carrier
+deliveries,promised_delivery_date,DATE,no,Original consignment promise
+deliveries,dispatch_date,DATE,yes,Dispatch date blank when not dispatched
+deliveries,delivered_date,DATE,yes,Confirmed delivery date blank when not delivered
+deliveries,status,TEXT,no,Delivered Failed In transit or Scheduled at snapshot
+deliveries,shipping_cost_ngn,MONEY,no,Recorded shipping cost including failed attempts in NGN
+deliveries,exception_reason,TEXT,yes,Recorded exception blank when not supplied

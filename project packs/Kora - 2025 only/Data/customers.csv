@@ -1,0 +1,1101 @@
+﻿customer_id,customer_name,region_id,industry,segment
+CUS000001,Horizon Manufacturing 0001,REG6,Retail,SME
+CUS000002,Oak Manufacturing 0002,REG4,Manufacturing,Enterprise
+CUS000003,Cedar Retail 0003,REG1,Hospitality,SME
+CUS000004,Unity Hospitality 0004,REG1,Education,SME
+CUS000005,Cedar Hospitality 0005,REG2,Professional services,SME
+CUS000006,Unity Healthcare 0006,REG2,Hospitality,Enterprise
+CUS000007,Aspen Hospitality 0007,REG1,Hospitality,SME
+CUS000008,Beacon Manufacturing 0008,REG4,Healthcare,SME
+CUS000009,Cedar Manufacturing 0009,REG1,Manufacturing,SME
+CUS000010,Cedar Manufacturing 0010,REG5,Education,SME
+CUS000011,Horizon Healthcare 0011,REG1,Professional services,SME
+CUS000012,Aspen Healthcare 0012,REG1,Hospitality,SME
+CUS000013,Oak Education 0013,REG1,Education,SME
+CUS000014,Bridge Retail 0014,REG2,Retail,Enterprise
+CUS000015,Bridge Healthcare 0015,REG4,Retail,SME
+CUS000016,Beacon Professional services 0016,REG2,Education,SME
+CUS000017,Horizon Manufacturing 0017,REG1,Professional services,SME
+CUS000018,Summit Healthcare 0018,REG3,Education,SME
+CUS000019,Bridge Manufacturing 0019,REG3,Manufacturing,Public sector
+CUS000020,Cedar Manufacturing 0020,REG1,Healthcare,Public sector
+CUS000021,Oak Retail 0021,REG1,Retail,SME
+CUS000022,Unity Professional services 0022,REG1,Professional services,SME
+CUS000023,Summit Education 0023,REG1,Retail,SME
+CUS000024,Cedar Healthcare 0024,REG1,Retail,SME
+CUS000025,Beacon Retail 0025,REG1,Professional services,SME
+CUS000026,Oak Hospitality 0026,REG4,Hospitality,SME
+CUS000027,Horizon Retail 0027,REG1,Retail,Enterprise
+CUS000028,Cedar Education 0028,REG2,Healthcare,SME
+CUS000029,Cedar Retail 0029,REG4,Hospitality,Enterprise
+CUS000030,Beacon Manufacturing 0030,REG2,Manufacturing,Enterprise
+CUS000031,Horizon Education 0031,REG4,Education,SME
+CUS000032,Horizon Hospitality 0032,REG1,Retail,SME
+CUS000033,Summit Education 0033,REG1,Hospitality,Enterprise
+CUS000034,Bridge Manufacturing 0034,REG4,Hospitality,Enterprise
+CUS000035,Unity Professional services 0035,REG4,Healthcare,Enterprise
+CUS000036,Cedar Manufacturing 0036,REG1,Manufacturing,Enterprise
+CUS000037,Beacon Education 0037,REG1,Education,Public sector
+CUS000038,Oak Education 0038,REG1,Retail,SME
+CUS000039,Beacon Hospitality 0039,REG6,Professional services,Enterprise
+CUS000040,Aspen Healthcare 0040,REG1,Professional services,SME
+CUS000041,Oak Education 0041,REG1,Hospitality,SME
+CUS000042,Cedar Healthcare 0042,REG2,Retail,SME
+CUS000043,Unity Hospitality 0043,REG2,Retail,SME
+CUS000044,Beacon Education 0044,REG4,Education,SME
+CUS000045,Aspen Education 0045,REG6,Manufacturing,SME
+CUS000046,Unity Retail 0046,REG1,Education,SME
+CUS000047,Oak Healthcare 0047,REG5,Professional services,SME
+CUS000048,Summit Healthcare 0048,REG1,Education,Public sector
+CUS000049,Oak Education 0049,REG1,Education,SME
+CUS000050,Oak Education 0050,REG3,Healthcare,SME
+CUS000051,Cedar Healthcare 0051,REG5,Hospitality,SME
+CUS000052,Cedar Retail 0052,REG1,Retail,Public sector
+CUS000053,Summit Hospitality 0053,REG3,Retail,SME
+CUS000054,Unity Manufacturing 0054,REG1,Hospitality,SME
+CUS000055,Aspen Education 0055,REG5,Education,SME
+CUS000056,Cedar Healthcare 0056,REG1,Healthcare,SME
+CUS000057,Cedar Manufacturing 0057,REG1,Manufacturing,Enterprise
+CUS000058,Oak Hospitality 0058,REG4,Healthcare,SME
+CUS000059,Summit Hospitality 0059,REG5,Healthcare,Public sector
+CUS000060,Cedar Hospitality 0060,REG1,Retail,Public sector
+CUS000061,Cedar Retail 0061,REG1,Professional services,Public sector
+CUS000062,Unity Manufacturing 0062,REG1,Healthcare,Enterprise
+CUS000063,Bridge Education 0063,REG5,Professional services,SME
+CUS000064,Cedar Manufacturing 0064,REG1,Hospitality,Enterprise
+CUS000065,Unity Hospitality 0065,REG3,Professional services,SME
+CUS000066,Oak Healthcare 0066,REG1,Professional services,SME
+CUS000067,Cedar Retail 0067,REG1,Retail,SME
+CUS000068,Cedar Education 0068,REG6,Retail,SME
+CUS000069,Unity Healthcare 0069,REG6,Healthcare,SME
+CUS000070,Horizon Professional services 0070,REG1,Healthcare,SME
+CUS000071,Aspen Hospitality 0071,REG6,Manufacturing,SME
+CUS000072,Unity Retail 0072,REG3,Manufacturing,SME
+CUS000073,Summit Retail 0073,REG1,Education,SME
+CUS000074,Aspen Manufacturing 0074,REG6,Healthcare,SME
+CUS000075,Cedar Healthcare 0075,REG4,Hospitality,SME
+CUS000076,Summit Retail 0076,REG1,Retail,SME
+CUS000077,Unity Professional services 0077,REG5,Healthcare,Enterprise
+CUS000078,Beacon Healthcare 0078,REG1,Professional services,SME
+CUS000079,Aspen Retail 0079,REG1,Education,Enterprise
+CUS000080,Beacon Healthcare 0080,REG1,Healthcare,SME
+CUS000081,Bridge Healthcare 0081,REG6,Manufacturing,Enterprise
+CUS000082,Bridge Retail 0082,REG4,Retail,SME
+CUS000083,Horizon Retail 0083,REG6,Manufacturing,SME
+CUS000084,Unity Retail 0084,REG1,Manufacturing,SME
+CUS000085,Aspen Manufacturing 0085,REG1,Retail,SME
+CUS000086,Unity Healthcare 0086,REG3,Education,Enterprise
+CUS000087,Cedar Hospitality 0087,REG3,Healthcare,SME
+CUS000088,Bridge Education 0088,REG3,Hospitality,SME
+CUS000089,Oak Manufacturing 0089,REG1,Education,Enterprise
+CUS000090,Aspen Professional services 0090,REG2,Professional services,SME
+CUS000091,Beacon Education 0091,REG1,Professional services,SME
+CUS000092,Beacon Manufacturing 0092,REG2,Education,SME
+CUS000093,Unity Healthcare 0093,REG1,Retail,SME
+CUS000094,Unity Retail 0094,REG4,Professional services,SME
+CUS000095,Beacon Manufacturing 0095,REG1,Education,Enterprise
+CUS000096,Oak Retail 0096,REG2,Education,SME
+CUS000097,Oak Education 0097,REG4,Hospitality,SME
+CUS000098,Aspen Education 0098,REG3,Professional services,SME
+CUS000099,Unity Retail 0099,REG1,Hospitality,SME
+CUS000100,Bridge Professional services 0100,REG1,Professional services,Enterprise
+CUS000101,Unity Professional services 0101,REG1,Retail,Enterprise
+CUS000102,Horizon Hospitality 0102,REG1,Hospitality,SME
+CUS000103,Beacon Manufacturing 0103,REG4,Professional services,SME
+CUS000104,Aspen Manufacturing 0104,REG1,Manufacturing,SME
+CUS000105,Aspen Education 0105,REG5,Healthcare,SME
+CUS000106,Unity Healthcare 0106,REG2,Retail,Public sector
+CUS000107,Horizon Education 0107,REG6,Professional services,SME
+CUS000108,Aspen Healthcare 0108,REG1,Healthcare,Enterprise
+CUS000109,Aspen Education 0109,REG2,Healthcare,SME
+CUS000110,Beacon Professional services 0110,REG5,Manufacturing,SME
+CUS000111,Beacon Healthcare 0111,REG1,Manufacturing,SME
+CUS000112,Cedar Education 0112,REG3,Education,Public sector
+CUS000113,Summit Retail 0113,REG4,Retail,SME
+CUS000114,Cedar Hospitality 0114,REG5,Hospitality,SME
+CUS000115,Oak Education 0115,REG4,Retail,SME
+CUS000116,Horizon Professional services 0116,REG1,Education,Enterprise
+CUS000117,Summit Education 0117,REG1,Retail,SME
+CUS000118,Cedar Retail 0118,REG2,Retail,SME
+CUS000119,Aspen Education 0119,REG2,Manufacturing,SME
+CUS000120,Oak Manufacturing 0120,REG1,Education,SME
+CUS000121,Cedar Manufacturing 0121,REG1,Healthcare,SME
+CUS000122,Beacon Hospitality 0122,REG1,Manufacturing,SME
+CUS000123,Horizon Professional services 0123,REG1,Professional services,SME
+CUS000124,Beacon Retail 0124,REG1,Healthcare,SME
+CUS000125,Summit Healthcare 0125,REG1,Professional services,SME
+CUS000126,Summit Retail 0126,REG1,Manufacturing,Enterprise
+CUS000127,Oak Manufacturing 0127,REG5,Professional services,SME
+CUS000128,Aspen Professional services 0128,REG1,Professional services,SME
+CUS000129,Oak Hospitality 0129,REG1,Hospitality,SME
+CUS000130,Cedar Hospitality 0130,REG6,Professional services,SME
+CUS000131,Summit Professional services 0131,REG6,Manufacturing,SME
+CUS000132,Oak Professional services 0132,REG5,Manufacturing,SME
+CUS000133,Beacon Education 0133,REG4,Professional services,Enterprise
+CUS000134,Oak Manufacturing 0134,REG1,Healthcare,SME
+CUS000135,Bridge Retail 0135,REG1,Education,SME
+CUS000136,Horizon Retail 0136,REG4,Professional services,SME
+CUS000137,Unity Healthcare 0137,REG1,Hospitality,SME
+CUS000138,Horizon Manufacturing 0138,REG4,Healthcare,Enterprise
+CUS000139,Aspen Manufacturing 0139,REG1,Manufacturing,SME
+CUS000140,Aspen Professional services 0140,REG3,Professional services,SME
+CUS000141,Cedar Retail 0141,REG1,Manufacturing,SME
+CUS000142,Bridge Education 0142,REG1,Retail,SME
+CUS000143,Bridge Professional services 0143,REG5,Manufacturing,SME
+CUS000144,Beacon Hospitality 0144,REG1,Retail,SME
+CUS000145,Summit Retail 0145,REG2,Professional services,Enterprise
+CUS000146,Oak Hospitality 0146,REG4,Healthcare,SME
+CUS000147,Cedar Retail 0147,REG1,Retail,SME
+CUS000148,Cedar Healthcare 0148,REG1,Hospitality,SME
+CUS000149,Oak Healthcare 0149,REG1,Education,SME
+CUS000150,Aspen Education 0150,REG1,Hospitality,SME
+CUS000151,Aspen Hospitality 0151,REG1,Retail,SME
+CUS000152,Beacon Hospitality 0152,REG4,Manufacturing,Enterprise
+CUS000153,Summit Healthcare 0153,REG5,Education,Public sector
+CUS000154,Bridge Manufacturing 0154,REG4,Professional services,SME
+CUS000155,Aspen Retail 0155,REG1,Manufacturing,SME
+CUS000156,Bridge Manufacturing 0156,REG1,Education,SME
+CUS000157,Bridge Education 0157,REG3,Hospitality,SME
+CUS000158,Unity Healthcare 0158,REG1,Retail,SME
+CUS000159,Summit Manufacturing 0159,REG1,Healthcare,Public sector
+CUS000160,Oak Healthcare 0160,REG2,Healthcare,Public sector
+CUS000161,Summit Hospitality 0161,REG2,Healthcare,Enterprise
+CUS000162,Bridge Education 0162,REG1,Hospitality,SME
+CUS000163,Aspen Professional services 0163,REG2,Education,SME
+CUS000164,Horizon Professional services 0164,REG1,Healthcare,SME
+CUS000165,Horizon Retail 0165,REG2,Retail,SME
+CUS000166,Beacon Education 0166,REG1,Healthcare,Enterprise
+CUS000167,Summit Hospitality 0167,REG1,Hospitality,SME
+CUS000168,Oak Education 0168,REG5,Hospitality,SME
+CUS000169,Oak Manufacturing 0169,REG4,Professional services,SME
+CUS000170,Horizon Healthcare 0170,REG1,Education,Enterprise
+CUS000171,Aspen Education 0171,REG3,Healthcare,SME
+CUS000172,Oak Healthcare 0172,REG1,Retail,SME
+CUS000173,Aspen Manufacturing 0173,REG2,Professional services,Public sector
+CUS000174,Horizon Healthcare 0174,REG1,Professional services,SME
+CUS000175,Bridge Hospitality 0175,REG5,Professional services,SME
+CUS000176,Beacon Healthcare 0176,REG1,Education,SME
+CUS000177,Cedar Retail 0177,REG2,Education,Enterprise
+CUS000178,Beacon Education 0178,REG1,Education,SME
+CUS000179,Cedar Healthcare 0179,REG2,Retail,Public sector
+CUS000180,Beacon Professional services 0180,REG2,Retail,SME
+CUS000181,Beacon Hospitality 0181,REG1,Professional services,SME
+CUS000182,Cedar Education 0182,REG1,Retail,SME
+CUS000183,Unity Healthcare 0183,REG5,Retail,SME
+CUS000184,Bridge Education 0184,REG6,Professional services,Enterprise
+CUS000185,Horizon Manufacturing 0185,REG6,Healthcare,Enterprise
+CUS000186,Beacon Retail 0186,REG5,Manufacturing,SME
+CUS000187,Oak Retail 0187,REG1,Hospitality,SME
+CUS000188,Unity Professional services 0188,REG1,Healthcare,SME
+CUS000189,Beacon Professional services 0189,REG3,Hospitality,SME
+CUS000190,Summit Retail 0190,REG6,Retail,Public sector
+CUS000191,Summit Retail 0191,REG3,Healthcare,Enterprise
+CUS000192,Summit Education 0192,REG1,Retail,Enterprise
+CUS000193,Horizon Retail 0193,REG4,Retail,SME
+CUS000194,Aspen Hospitality 0194,REG3,Professional services,SME
+CUS000195,Horizon Hospitality 0195,REG4,Hospitality,SME
+CUS000196,Unity Manufacturing 0196,REG1,Retail,Enterprise
+CUS000197,Aspen Education 0197,REG1,Healthcare,Enterprise
+CUS000198,Oak Hospitality 0198,REG2,Professional services,SME
+CUS000199,Oak Retail 0199,REG4,Professional services,SME
+CUS000200,Oak Retail 0200,REG1,Retail,SME
+CUS000201,Unity Retail 0201,REG5,Manufacturing,SME
+CUS000202,Unity Professional services 0202,REG4,Manufacturing,Enterprise
+CUS000203,Unity Hospitality 0203,REG1,Healthcare,SME
+CUS000204,Aspen Retail 0204,REG4,Education,SME
+CUS000205,Bridge Professional services 0205,REG1,Retail,SME
+CUS000206,Summit Manufacturing 0206,REG1,Retail,Enterprise
+CUS000207,Oak Professional services 0207,REG2,Education,Enterprise
+CUS000208,Summit Education 0208,REG1,Hospitality,Public sector
+CUS000209,Unity Healthcare 0209,REG1,Retail,SME
+CUS000210,Unity Healthcare 0210,REG1,Hospitality,Enterprise
+CUS000211,Beacon Education 0211,REG2,Hospitality,SME
+CUS000212,Bridge Professional services 0212,REG6,Professional services,Enterprise
+CUS000213,Aspen Healthcare 0213,REG1,Retail,SME
+CUS000214,Summit Manufacturing 0214,REG4,Hospitality,SME
+CUS000215,Beacon Education 0215,REG2,Healthcare,SME
+CUS000216,Aspen Education 0216,REG4,Education,Enterprise
+CUS000217,Oak Hospitality 0217,REG4,Education,Enterprise
+CUS000218,Summit Education 0218,REG1,Healthcare,Enterprise
+CUS000219,Oak Healthcare 0219,REG1,Retail,SME
+CUS000220,Bridge Healthcare 0220,REG1,Education,SME
+CUS000221,Beacon Professional services 0221,REG5,Retail,SME
+CUS000222,Beacon Professional services 0222,REG1,Education,SME
+CUS000223,Aspen Professional services 0223,REG2,Manufacturing,Enterprise
+CUS000224,Cedar Education 0224,REG1,Manufacturing,SME
+CUS000225,Beacon Professional services 0225,REG1,Retail,SME
+CUS000226,Horizon Hospitality 0226,REG5,Education,SME
+CUS000227,Oak Manufacturing 0227,REG4,Professional services,SME
+CUS000228,Cedar Professional services 0228,REG1,Manufacturing,SME
+CUS000229,Bridge Healthcare 0229,REG6,Hospitality,SME
+CUS000230,Horizon Retail 0230,REG3,Healthcare,SME
+CUS000231,Summit Education 0231,REG1,Professional services,SME
+CUS000232,Oak Hospitality 0232,REG5,Retail,SME
+CUS000233,Bridge Professional services 0233,REG1,Hospitality,SME
+CUS000234,Beacon Healthcare 0234,REG1,Manufacturing,Enterprise
+CUS000235,Beacon Manufacturing 0235,REG2,Professional services,Enterprise
+CUS000236,Oak Manufacturing 0236,REG4,Healthcare,SME
+CUS000237,Horizon Professional services 0237,REG1,Education,Public sector
+CUS000238,Horizon Hospitality 0238,REG4,Retail,Enterprise
+CUS000239,Cedar Healthcare 0239,REG2,Healthcare,SME
+CUS000240,Cedar Hospitality 0240,REG1,Healthcare,SME
+CUS000241,Aspen Professional services 0241,REG1,Manufacturing,SME
+CUS000242,Oak Hospitality 0242,REG6,Retail,SME
+CUS000243,Beacon Hospitality 0243,REG5,Healthcare,SME
+CUS000244,Horizon Education 0244,REG6,Healthcare,Public sector
+CUS000245,Horizon Healthcare 0245,REG4,Manufacturing,SME
+CUS000246,Unity Hospitality 0246,REG2,Manufacturing,SME
+CUS000247,Oak Professional services 0247,REG1,Healthcare,Public sector
+CUS000248,Cedar Manufacturing 0248,REG2,Retail,SME
+CUS000249,Oak Hospitality 0249,REG3,Hospitality,Public sector
+CUS000250,Cedar Hospitality 0250,REG1,Education,Enterprise
+CUS000251,Horizon Manufacturing 0251,REG1,Healthcare,Enterprise
+CUS000252,Horizon Hospitality 0252,REG2,Retail,SME
+CUS000253,Beacon Retail 0253,REG1,Manufacturing,Enterprise
+CUS000254,Oak Hospitality 0254,REG5,Hospitality,SME
+CUS000255,Oak Education 0255,REG5,Hospitality,SME
+CUS000256,Summit Manufacturing 0256,REG6,Hospitality,SME
+CUS000257,Cedar Professional services 0257,REG2,Hospitality,SME
+CUS000258,Cedar Professional services 0258,REG4,Manufacturing,SME
+CUS000259,Aspen Education 0259,REG1,Retail,Enterprise
+CUS000260,Aspen Manufacturing 0260,REG4,Manufacturing,SME
+CUS000261,Aspen Professional services 0261,REG1,Manufacturing,Enterprise
+CUS000262,Oak Healthcare 0262,REG4,Retail,SME
+CUS000263,Beacon Healthcare 0263,REG3,Hospitality,SME
+CUS000264,Aspen Retail 0264,REG4,Professional services,SME
+CUS000265,Aspen Healthcare 0265,REG3,Education,Enterprise
+CUS000266,Summit Healthcare 0266,REG4,Professional services,Public sector
+CUS000267,Oak Hospitality 0267,REG3,Professional services,SME
+CUS000268,Aspen Retail 0268,REG5,Professional services,Enterprise
+CUS000269,Oak Retail 0269,REG1,Healthcare,SME
+CUS000270,Aspen Manufacturing 0270,REG2,Education,SME
+CUS000271,Aspen Education 0271,REG4,Manufacturing,SME
+CUS000272,Aspen Manufacturing 0272,REG2,Manufacturing,SME
+CUS000273,Cedar Professional services 0273,REG4,Education,SME
+CUS000274,Summit Healthcare 0274,REG1,Healthcare,SME
+CUS000275,Aspen Education 0275,REG1,Hospitality,SME
+CUS000276,Horizon Education 0276,REG5,Hospitality,SME
+CUS000277,Summit Hospitality 0277,REG4,Healthcare,SME
+CUS000278,Horizon Retail 0278,REG1,Retail,SME
+CUS000279,Unity Professional services 0279,REG5,Manufacturing,SME
+CUS000280,Horizon Healthcare 0280,REG1,Retail,SME
+CUS000281,Aspen Hospitality 0281,REG2,Professional services,Enterprise
+CUS000282,Horizon Retail 0282,REG1,Professional services,SME
+CUS000283,Horizon Retail 0283,REG2,Hospitality,SME
+CUS000284,Bridge Professional services 0284,REG1,Retail,SME
+CUS000285,Summit Hospitality 0285,REG1,Education,Enterprise
+CUS000286,Oak Education 0286,REG1,Hospitality,SME
+CUS000287,Bridge Manufacturing 0287,REG1,Professional services,SME
+CUS000288,Horizon Retail 0288,REG1,Education,Enterprise
+CUS000289,Oak Healthcare 0289,REG1,Manufacturing,SME
+CUS000290,Unity Manufacturing 0290,REG4,Healthcare,SME
+CUS000291,Bridge Education 0291,REG6,Professional services,Enterprise
+CUS000292,Unity Hospitality 0292,REG4,Education,Enterprise
+CUS000293,Cedar Hospitality 0293,REG1,Hospitality,SME
+CUS000294,Unity Education 0294,REG3,Retail,SME
+CUS000295,Bridge Professional services 0295,REG5,Hospitality,SME
+CUS000296,Horizon Healthcare 0296,REG4,Healthcare,SME
+CUS000297,Beacon Hospitality 0297,REG6,Hospitality,SME
+CUS000298,Oak Manufacturing 0298,REG1,Professional services,SME
+CUS000299,Horizon Professional services 0299,REG1,Education,Enterprise
+CUS000300,Unity Hospitality 0300,REG1,Hospitality,SME
+CUS000301,Unity Retail 0301,REG5,Manufacturing,SME
+CUS000302,Bridge Healthcare 0302,REG4,Healthcare,Enterprise
+CUS000303,Cedar Education 0303,REG4,Retail,SME
+CUS000304,Oak Hospitality 0304,REG1,Education,SME
+CUS000305,Horizon Manufacturing 0305,REG1,Manufacturing,SME
+CUS000306,Horizon Retail 0306,REG1,Healthcare,SME
+CUS000307,Aspen Retail 0307,REG1,Education,SME
+CUS000308,Beacon Professional services 0308,REG3,Education,SME
+CUS000309,Bridge Healthcare 0309,REG1,Hospitality,SME
+CUS000310,Aspen Professional services 0310,REG1,Education,Enterprise
+CUS000311,Summit Hospitality 0311,REG1,Hospitality,SME
+CUS000312,Horizon Education 0312,REG4,Education,Enterprise
+CUS000313,Horizon Manufacturing 0313,REG1,Healthcare,SME
+CUS000314,Aspen Education 0314,REG1,Hospitality,SME
+CUS000315,Beacon Retail 0315,REG4,Education,SME
+CUS000316,Unity Manufacturing 0316,REG1,Manufacturing,SME
+CUS000317,Horizon Hospitality 0317,REG2,Retail,Public sector
+CUS000318,Oak Hospitality 0318,REG6,Education,SME
+CUS000319,Oak Hospitality 0319,REG3,Education,SME
+CUS000320,Oak Hospitality 0320,REG1,Healthcare,SME
+CUS000321,Bridge Healthcare 0321,REG1,Education,Public sector
+CUS000322,Oak Retail 0322,REG2,Retail,SME
+CUS000323,Bridge Hospitality 0323,REG1,Retail,SME
+CUS000324,Cedar Healthcare 0324,REG6,Retail,Enterprise
+CUS000325,Aspen Retail 0325,REG1,Education,SME
+CUS000326,Aspen Retail 0326,REG2,Healthcare,SME
+CUS000327,Beacon Education 0327,REG1,Professional services,SME
+CUS000328,Cedar Education 0328,REG3,Healthcare,SME
+CUS000329,Summit Healthcare 0329,REG1,Professional services,Enterprise
+CUS000330,Oak Healthcare 0330,REG3,Education,SME
+CUS000331,Summit Education 0331,REG3,Retail,Enterprise
+CUS000332,Beacon Healthcare 0332,REG1,Hospitality,SME
+CUS000333,Cedar Manufacturing 0333,REG5,Professional services,Enterprise
+CUS000334,Summit Hospitality 0334,REG3,Manufacturing,Enterprise
+CUS000335,Aspen Retail 0335,REG4,Professional services,Enterprise
+CUS000336,Bridge Manufacturing 0336,REG3,Education,SME
+CUS000337,Summit Retail 0337,REG5,Retail,SME
+CUS000338,Unity Hospitality 0338,REG1,Education,Public sector
+CUS000339,Bridge Education 0339,REG2,Retail,Public sector
+CUS000340,Beacon Education 0340,REG5,Healthcare,SME
+CUS000341,Horizon Manufacturing 0341,REG3,Education,SME
+CUS000342,Aspen Healthcare 0342,REG5,Manufacturing,Enterprise
+CUS000343,Beacon Healthcare 0343,REG5,Healthcare,Public sector
+CUS000344,Horizon Manufacturing 0344,REG1,Retail,SME
+CUS000345,Cedar Healthcare 0345,REG1,Education,Enterprise
+CUS000346,Oak Hospitality 0346,REG4,Manufacturing,SME
+CUS000347,Beacon Manufacturing 0347,REG1,Manufacturing,SME
+CUS000348,Beacon Retail 0348,REG5,Professional services,Enterprise
+CUS000349,Beacon Hospitality 0349,REG4,Hospitality,SME
+CUS000350,Horizon Hospitality 0350,REG1,Professional services,SME
+CUS000351,Bridge Education 0351,REG2,Professional services,SME
+CUS000352,Bridge Hospitality 0352,REG1,Professional services,SME
+CUS000353,Cedar Professional services 0353,REG1,Professional services,SME
+CUS000354,Unity Hospitality 0354,REG1,Hospitality,Enterprise
+CUS000355,Summit Healthcare 0355,REG3,Professional services,Enterprise
+CUS000356,Summit Healthcare 0356,REG1,Retail,SME
+CUS000357,Aspen Professional services 0357,REG1,Hospitality,SME
+CUS000358,Oak Healthcare 0358,REG1,Hospitality,SME
+CUS000359,Bridge Professional services 0359,REG2,Hospitality,Enterprise
+CUS000360,Summit Manufacturing 0360,REG3,Healthcare,SME
+CUS000361,Cedar Hospitality 0361,REG1,Education,SME
+CUS000362,Aspen Education 0362,REG1,Healthcare,SME
+CUS000363,Beacon Hospitality 0363,REG2,Healthcare,SME
+CUS000364,Summit Education 0364,REG1,Education,SME
+CUS000365,Cedar Retail 0365,REG5,Retail,SME
+CUS000366,Horizon Retail 0366,REG1,Hospitality,SME
+CUS000367,Horizon Manufacturing 0367,REG2,Education,SME
+CUS000368,Horizon Professional services 0368,REG1,Hospitality,SME
+CUS000369,Beacon Hospitality 0369,REG2,Hospitality,SME
+CUS000370,Oak Hospitality 0370,REG4,Education,SME
+CUS000371,Bridge Retail 0371,REG5,Professional services,Public sector
+CUS000372,Beacon Hospitality 0372,REG2,Education,SME
+CUS000373,Cedar Healthcare 0373,REG2,Healthcare,Public sector
+CUS000374,Cedar Retail 0374,REG3,Hospitality,Enterprise
+CUS000375,Horizon Manufacturing 0375,REG2,Healthcare,SME
+CUS000376,Summit Professional services 0376,REG1,Hospitality,SME
+CUS000377,Aspen Manufacturing 0377,REG1,Retail,SME
+CUS000378,Aspen Professional services 0378,REG4,Retail,SME
+CUS000379,Beacon Hospitality 0379,REG5,Manufacturing,SME
+CUS000380,Bridge Retail 0380,REG1,Manufacturing,SME
+CUS000381,Bridge Healthcare 0381,REG2,Professional services,SME
+CUS000382,Unity Manufacturing 0382,REG2,Retail,SME
+CUS000383,Horizon Manufacturing 0383,REG4,Hospitality,Enterprise
+CUS000384,Unity Education 0384,REG3,Education,SME
+CUS000385,Beacon Hospitality 0385,REG3,Manufacturing,Enterprise
+CUS000386,Bridge Professional services 0386,REG1,Healthcare,SME
+CUS000387,Cedar Professional services 0387,REG3,Professional services,SME
+CUS000388,Oak Hospitality 0388,REG5,Healthcare,Enterprise
+CUS000389,Bridge Professional services 0389,REG3,Professional services,SME
+CUS000390,Summit Education 0390,REG2,Education,SME
+CUS000391,Aspen Education 0391,REG1,Education,Enterprise
+CUS000392,Beacon Education 0392,REG4,Education,Enterprise
+CUS000393,Aspen Professional services 0393,REG1,Manufacturing,SME
+CUS000394,Cedar Healthcare 0394,REG4,Manufacturing,Enterprise
+CUS000395,Aspen Education 0395,REG3,Hospitality,SME
+CUS000396,Summit Hospitality 0396,REG1,Hospitality,Enterprise
+CUS000397,Summit Professional services 0397,REG5,Retail,Enterprise
+CUS000398,Beacon Education 0398,REG5,Manufacturing,SME
+CUS000399,Bridge Education 0399,REG2,Professional services,Enterprise
+CUS000400,Aspen Professional services 0400,REG1,Healthcare,SME
+CUS000401,Summit Healthcare 0401,REG5,Healthcare,Public sector
+CUS000402,Summit Professional services 0402,REG3,Professional services,SME
+CUS000403,Beacon Healthcare 0403,REG5,Healthcare,Enterprise
+CUS000404,Bridge Manufacturing 0404,REG1,Retail,SME
+CUS000405,Unity Manufacturing 0405,REG1,Retail,SME
+CUS000406,Unity Manufacturing 0406,REG1,Healthcare,SME
+CUS000407,Beacon Professional services 0407,REG2,Manufacturing,SME
+CUS000408,Horizon Healthcare 0408,REG3,Healthcare,SME
+CUS000409,Cedar Professional services 0409,REG1,Education,SME
+CUS000410,Unity Manufacturing 0410,REG3,Hospitality,Enterprise
+CUS000411,Unity Education 0411,REG6,Hospitality,Enterprise
+CUS000412,Bridge Professional services 0412,REG5,Hospitality,SME
+CUS000413,Unity Professional services 0413,REG1,Education,SME
+CUS000414,Oak Education 0414,REG1,Professional services,Enterprise
+CUS000415,Summit Manufacturing 0415,REG4,Professional services,SME
+CUS000416,Cedar Healthcare 0416,REG2,Professional services,Public sector
+CUS000417,Bridge Education 0417,REG3,Manufacturing,SME
+CUS000418,Bridge Education 0418,REG1,Manufacturing,SME
+CUS000419,Oak Manufacturing 0419,REG1,Hospitality,Enterprise
+CUS000420,Oak Hospitality 0420,REG1,Retail,SME
+CUS000421,Aspen Hospitality 0421,REG3,Manufacturing,SME
+CUS000422,Bridge Healthcare 0422,REG1,Retail,Enterprise
+CUS000423,Bridge Manufacturing 0423,REG1,Healthcare,SME
+CUS000424,Horizon Healthcare 0424,REG1,Professional services,Public sector
+CUS000425,Horizon Retail 0425,REG1,Hospitality,Enterprise
+CUS000426,Cedar Education 0426,REG3,Manufacturing,SME
+CUS000427,Aspen Manufacturing 0427,REG1,Manufacturing,SME
+CUS000428,Aspen Retail 0428,REG1,Education,Enterprise
+CUS000429,Unity Healthcare 0429,REG1,Retail,Enterprise
+CUS000430,Aspen Retail 0430,REG5,Education,Enterprise
+CUS000431,Summit Hospitality 0431,REG3,Professional services,Public sector
+CUS000432,Cedar Professional services 0432,REG3,Retail,SME
+CUS000433,Beacon Retail 0433,REG2,Healthcare,SME
+CUS000434,Summit Education 0434,REG1,Retail,SME
+CUS000435,Horizon Education 0435,REG1,Hospitality,SME
+CUS000436,Oak Professional services 0436,REG1,Hospitality,SME
+CUS000437,Summit Hospitality 0437,REG1,Education,SME
+CUS000438,Horizon Professional services 0438,REG3,Professional services,SME
+CUS000439,Summit Professional services 0439,REG1,Healthcare,Public sector
+CUS000440,Oak Retail 0440,REG2,Education,SME
+CUS000441,Horizon Professional services 0441,REG4,Hospitality,SME
+CUS000442,Summit Manufacturing 0442,REG1,Manufacturing,Enterprise
+CUS000443,Oak Retail 0443,REG1,Hospitality,SME
+CUS000444,Aspen Hospitality 0444,REG3,Manufacturing,SME
+CUS000445,Aspen Hospitality 0445,REG2,Retail,SME
+CUS000446,Summit Hospitality 0446,REG6,Manufacturing,Enterprise
+CUS000447,Cedar Education 0447,REG1,Manufacturing,Public sector
+CUS000448,Bridge Education 0448,REG2,Education,Enterprise
+CUS000449,Cedar Hospitality 0449,REG3,Healthcare,SME
+CUS000450,Summit Healthcare 0450,REG1,Retail,SME
+CUS000451,Summit Professional services 0451,REG4,Retail,SME
+CUS000452,Horizon Education 0452,REG3,Professional services,SME
+CUS000453,Horizon Hospitality 0453,REG1,Professional services,SME
+CUS000454,Aspen Education 0454,REG1,Education,SME
+CUS000455,Horizon Education 0455,REG4,Manufacturing,SME
+CUS000456,Bridge Hospitality 0456,REG2,Education,SME
+CUS000457,Unity Hospitality 0457,REG2,Retail,SME
+CUS000458,Oak Professional services 0458,REG1,Manufacturing,SME
+CUS000459,Horizon Healthcare 0459,REG1,Retail,SME
+CUS000460,Beacon Education 0460,REG3,Education,SME
+CUS000461,Beacon Hospitality 0461,REG4,Hospitality,SME
+CUS000462,Horizon Healthcare 0462,REG1,Professional services,SME
+CUS000463,Horizon Retail 0463,REG1,Professional services,SME
+CUS000464,Aspen Professional services 0464,REG1,Healthcare,SME
+CUS000465,Oak Healthcare 0465,REG6,Healthcare,SME
+CUS000466,Cedar Retail 0466,REG3,Manufacturing,SME
+CUS000467,Unity Manufacturing 0467,REG4,Healthcare,SME
+CUS000468,Beacon Professional services 0468,REG1,Manufacturing,Enterprise
+CUS000469,Aspen Healthcare 0469,REG2,Education,SME
+CUS000470,Cedar Education 0470,REG1,Education,SME
+CUS000471,Aspen Education 0471,REG3,Professional services,Enterprise
+CUS000472,Unity Retail 0472,REG2,Retail,Enterprise
+CUS000473,Cedar Professional services 0473,REG1,Retail,Enterprise
+CUS000474,Cedar Professional services 0474,REG4,Education,SME
+CUS000475,Beacon Hospitality 0475,REG5,Hospitality,SME
+CUS000476,Summit Hospitality 0476,REG2,Hospitality,SME
+CUS000477,Cedar Manufacturing 0477,REG3,Retail,SME
+CUS000478,Beacon Professional services 0478,REG6,Healthcare,Enterprise
+CUS000479,Horizon Professional services 0479,REG4,Education,Enterprise
+CUS000480,Bridge Hospitality 0480,REG4,Retail,SME
+CUS000481,Aspen Education 0481,REG2,Hospitality,SME
+CUS000482,Summit Healthcare 0482,REG2,Hospitality,SME
+CUS000483,Beacon Retail 0483,REG4,Professional services,SME
+CUS000484,Unity Hospitality 0484,REG2,Retail,Enterprise
+CUS000485,Cedar Manufacturing 0485,REG1,Hospitality,SME
+CUS000486,Aspen Healthcare 0486,REG1,Hospitality,SME
+CUS000487,Cedar Healthcare 0487,REG1,Professional services,SME
+CUS000488,Summit Healthcare 0488,REG2,Education,Enterprise
+CUS000489,Cedar Professional services 0489,REG4,Manufacturing,SME
+CUS000490,Beacon Manufacturing 0490,REG2,Retail,SME
+CUS000491,Summit Manufacturing 0491,REG1,Professional services,Enterprise
+CUS000492,Horizon Manufacturing 0492,REG1,Hospitality,SME
+CUS000493,Beacon Professional services 0493,REG3,Professional services,SME
+CUS000494,Oak Manufacturing 0494,REG3,Retail,SME
+CUS000495,Oak Manufacturing 0495,REG1,Hospitality,SME
+CUS000496,Beacon Retail 0496,REG1,Education,Enterprise
+CUS000497,Cedar Hospitality 0497,REG2,Professional services,SME
+CUS000498,Beacon Education 0498,REG4,Healthcare,Enterprise
+CUS000499,Beacon Professional services 0499,REG4,Healthcare,Enterprise
+CUS000500,Horizon Healthcare 0500,REG1,Professional services,SME
+CUS000501,Oak Manufacturing 0501,REG1,Education,SME
+CUS000502,Beacon Healthcare 0502,REG1,Manufacturing,Enterprise
+CUS000503,Unity Healthcare 0503,REG5,Professional services,SME
+CUS000504,Unity Hospitality 0504,REG1,Manufacturing,SME
+CUS000505,Cedar Manufacturing 0505,REG2,Manufacturing,Enterprise
+CUS000506,Unity Hospitality 0506,REG4,Education,SME
+CUS000507,Unity Hospitality 0507,REG1,Professional services,SME
+CUS000508,Aspen Education 0508,REG6,Healthcare,Public sector
+CUS000509,Unity Manufacturing 0509,REG4,Education,Enterprise
+CUS000510,Horizon Professional services 0510,REG1,Professional services,SME
+CUS000511,Horizon Hospitality 0511,REG5,Retail,SME
+CUS000512,Beacon Manufacturing 0512,REG5,Healthcare,Public sector
+CUS000513,Bridge Manufacturing 0513,REG1,Professional services,SME
+CUS000514,Cedar Retail 0514,REG1,Manufacturing,SME
+CUS000515,Summit Professional services 0515,REG1,Hospitality,SME
+CUS000516,Summit Manufacturing 0516,REG2,Manufacturing,Enterprise
+CUS000517,Unity Hospitality 0517,REG1,Professional services,SME
+CUS000518,Unity Retail 0518,REG1,Hospitality,SME
+CUS000519,Unity Professional services 0519,REG2,Retail,SME
+CUS000520,Beacon Healthcare 0520,REG6,Professional services,SME
+CUS000521,Cedar Education 0521,REG1,Healthcare,Enterprise
+CUS000522,Cedar Professional services 0522,REG1,Education,SME
+CUS000523,Unity Healthcare 0523,REG3,Manufacturing,SME
+CUS000524,Horizon Manufacturing 0524,REG4,Education,SME
+CUS000525,Cedar Healthcare 0525,REG6,Education,SME
+CUS000526,Aspen Healthcare 0526,REG4,Retail,SME
+CUS000527,Aspen Healthcare 0527,REG5,Professional services,SME
+CUS000528,Horizon Hospitality 0528,REG2,Healthcare,Enterprise
+CUS000529,Unity Hospitality 0529,REG1,Hospitality,Enterprise
+CUS000530,Cedar Retail 0530,REG5,Retail,Public sector
+CUS000531,Beacon Hospitality 0531,REG2,Retail,SME
+CUS000532,Aspen Retail 0532,REG1,Retail,SME
+CUS000533,Beacon Education 0533,REG5,Professional services,SME
+CUS000534,Aspen Hospitality 0534,REG3,Professional services,SME
+CUS000535,Aspen Retail 0535,REG3,Professional services,SME
+CUS000536,Beacon Retail 0536,REG1,Professional services,SME
+CUS000537,Unity Hospitality 0537,REG3,Healthcare,SME
+CUS000538,Oak Education 0538,REG3,Manufacturing,SME
+CUS000539,Beacon Healthcare 0539,REG1,Professional services,SME
+CUS000540,Oak Professional services 0540,REG1,Hospitality,SME
+CUS000541,Beacon Healthcare 0541,REG1,Education,SME
+CUS000542,Bridge Retail 0542,REG1,Hospitality,Enterprise
+CUS000543,Horizon Retail 0543,REG5,Manufacturing,SME
+CUS000544,Beacon Manufacturing 0544,REG1,Hospitality,SME
+CUS000545,Unity Education 0545,REG2,Manufacturing,SME
+CUS000546,Horizon Education 0546,REG2,Healthcare,SME
+CUS000547,Cedar Professional services 0547,REG4,Hospitality,Enterprise
+CUS000548,Oak Manufacturing 0548,REG1,Hospitality,SME
+CUS000549,Unity Healthcare 0549,REG1,Hospitality,SME
+CUS000550,Cedar Hospitality 0550,REG3,Manufacturing,SME
+CUS000551,Oak Retail 0551,REG2,Retail,SME
+CUS000552,Oak Retail 0552,REG1,Hospitality,SME
+CUS000553,Beacon Healthcare 0553,REG4,Healthcare,Enterprise
+CUS000554,Cedar Healthcare 0554,REG5,Professional services,SME
+CUS000555,Summit Retail 0555,REG1,Retail,SME
+CUS000556,Oak Professional services 0556,REG1,Healthcare,Enterprise
+CUS000557,Oak Manufacturing 0557,REG6,Retail,SME
+CUS000558,Summit Hospitality 0558,REG3,Hospitality,SME
+CUS000559,Cedar Education 0559,REG1,Manufacturing,SME
+CUS000560,Unity Manufacturing 0560,REG1,Manufacturing,SME
+CUS000561,Aspen Hospitality 0561,REG1,Education,SME
+CUS000562,Bridge Healthcare 0562,REG4,Retail,SME
+CUS000563,Cedar Healthcare 0563,REG5,Education,SME
+CUS000564,Horizon Retail 0564,REG3,Retail,SME
+CUS000565,Beacon Professional services 0565,REG5,Healthcare,SME
+CUS000566,Aspen Manufacturing 0566,REG1,Education,SME
+CUS000567,Summit Hospitality 0567,REG1,Manufacturing,Public sector
+CUS000568,Unity Manufacturing 0568,REG1,Professional services,SME
+CUS000569,Summit Professional services 0569,REG4,Retail,SME
+CUS000570,Beacon Professional services 0570,REG1,Manufacturing,Enterprise
+CUS000571,Horizon Healthcare 0571,REG2,Manufacturing,Enterprise
+CUS000572,Summit Professional services 0572,REG4,Education,Enterprise
+CUS000573,Summit Education 0573,REG4,Education,Enterprise
+CUS000574,Summit Professional services 0574,REG3,Education,Enterprise
+CUS000575,Bridge Professional services 0575,REG4,Retail,SME
+CUS000576,Cedar Hospitality 0576,REG1,Education,SME
+CUS000577,Aspen Manufacturing 0577,REG1,Hospitality,SME
+CUS000578,Cedar Retail 0578,REG2,Hospitality,SME
+CUS000579,Unity Manufacturing 0579,REG2,Education,SME
+CUS000580,Cedar Hospitality 0580,REG4,Retail,SME
+CUS000581,Horizon Manufacturing 0581,REG1,Retail,SME
+CUS000582,Beacon Hospitality 0582,REG4,Education,SME
+CUS000583,Cedar Retail 0583,REG1,Retail,Enterprise
+CUS000584,Unity Professional services 0584,REG1,Healthcare,Enterprise
+CUS000585,Summit Education 0585,REG4,Hospitality,SME
+CUS000586,Unity Professional services 0586,REG3,Professional services,SME
+CUS000587,Bridge Professional services 0587,REG1,Manufacturing,Enterprise
+CUS000588,Beacon Education 0588,REG3,Manufacturing,SME
+CUS000589,Cedar Hospitality 0589,REG1,Hospitality,SME
+CUS000590,Unity Manufacturing 0590,REG5,Retail,Enterprise
+CUS000591,Summit Professional services 0591,REG1,Manufacturing,SME
+CUS000592,Summit Education 0592,REG1,Retail,SME
+CUS000593,Cedar Healthcare 0593,REG1,Retail,SME
+CUS000594,Beacon Retail 0594,REG1,Retail,SME
+CUS000595,Unity Hospitality 0595,REG6,Retail,SME
+CUS000596,Bridge Manufacturing 0596,REG2,Retail,SME
+CUS000597,Aspen Retail 0597,REG4,Manufacturing,SME
+CUS000598,Horizon Education 0598,REG1,Retail,SME
+CUS000599,Oak Hospitality 0599,REG1,Healthcare,Public sector
+CUS000600,Beacon Education 0600,REG1,Hospitality,Enterprise
+CUS000601,Horizon Professional services 0601,REG1,Manufacturing,SME
+CUS000602,Bridge Manufacturing 0602,REG1,Healthcare,SME
+CUS000603,Horizon Manufacturing 0603,REG2,Education,SME
+CUS000604,Horizon Education 0604,REG4,Hospitality,SME
+CUS000605,Horizon Education 0605,REG2,Education,Enterprise
+CUS000606,Bridge Manufacturing 0606,REG2,Manufacturing,SME
+CUS000607,Bridge Manufacturing 0607,REG2,Healthcare,SME
+CUS000608,Cedar Hospitality 0608,REG1,Professional services,SME
+CUS000609,Beacon Education 0609,REG1,Hospitality,SME
+CUS000610,Horizon Hospitality 0610,REG4,Professional services,SME
+CUS000611,Unity Education 0611,REG1,Healthcare,Enterprise
+CUS000612,Cedar Education 0612,REG4,Retail,Enterprise
+CUS000613,Unity Manufacturing 0613,REG2,Hospitality,SME
+CUS000614,Unity Hospitality 0614,REG3,Healthcare,SME
+CUS000615,Horizon Education 0615,REG5,Healthcare,SME
+CUS000616,Unity Healthcare 0616,REG2,Professional services,SME
+CUS000617,Horizon Hospitality 0617,REG3,Retail,SME
+CUS000618,Bridge Manufacturing 0618,REG4,Healthcare,SME
+CUS000619,Bridge Professional services 0619,REG1,Healthcare,SME
+CUS000620,Bridge Professional services 0620,REG1,Manufacturing,Enterprise
+CUS000621,Cedar Retail 0621,REG6,Healthcare,SME
+CUS000622,Unity Education 0622,REG6,Education,Enterprise
+CUS000623,Cedar Healthcare 0623,REG4,Hospitality,SME
+CUS000624,Unity Hospitality 0624,REG6,Healthcare,SME
+CUS000625,Beacon Education 0625,REG2,Professional services,SME
+CUS000626,Cedar Healthcare 0626,REG1,Retail,SME
+CUS000627,Beacon Education 0627,REG1,Professional services,SME
+CUS000628,Oak Education 0628,REG3,Healthcare,SME
+CUS000629,Bridge Retail 0629,REG6,Retail,Enterprise
+CUS000630,Oak Hospitality 0630,REG1,Manufacturing,SME
+CUS000631,Cedar Retail 0631,REG1,Healthcare,SME
+CUS000632,Bridge Hospitality 0632,REG3,Manufacturing,SME
+CUS000633,Bridge Healthcare 0633,REG2,Retail,SME
+CUS000634,Summit Retail 0634,REG4,Hospitality,SME
+CUS000635,Summit Education 0635,REG1,Professional services,SME
+CUS000636,Unity Manufacturing 0636,REG3,Education,Enterprise
+CUS000637,Cedar Retail 0637,REG6,Manufacturing,SME
+CUS000638,Beacon Hospitality 0638,REG4,Hospitality,SME
+CUS000639,Horizon Healthcare 0639,REG1,Education,SME
+CUS000640,Beacon Professional services 0640,REG6,Retail,SME
+CUS000641,Horizon Manufacturing 0641,REG4,Education,SME
+CUS000642,Beacon Hospitality 0642,REG2,Manufacturing,SME
+CUS000643,Summit Education 0643,REG3,Professional services,SME
+CUS000644,Cedar Education 0644,REG1,Manufacturing,SME
+CUS000645,Cedar Healthcare 0645,REG1,Professional services,SME
+CUS000646,Beacon Manufacturing 0646,REG1,Professional services,Enterprise
+CUS000647,Horizon Hospitality 0647,REG3,Healthcare,SME
+CUS000648,Oak Professional services 0648,REG1,Education,SME
+CUS000649,Unity Retail 0649,REG2,Professional services,Enterprise
+CUS000650,Bridge Education 0650,REG1,Professional services,SME
+CUS000651,Oak Healthcare 0651,REG3,Hospitality,SME
+CUS000652,Aspen Education 0652,REG3,Retail,SME
+CUS000653,Unity Retail 0653,REG4,Education,SME
+CUS000654,Unity Education 0654,REG1,Hospitality,SME
+CUS000655,Summit Retail 0655,REG1,Professional services,Public sector
+CUS000656,Aspen Healthcare 0656,REG5,Retail,Enterprise
+CUS000657,Summit Manufacturing 0657,REG2,Healthcare,Public sector
+CUS000658,Aspen Manufacturing 0658,REG1,Retail,SME
+CUS000659,Cedar Education 0659,REG2,Healthcare,SME
+CUS000660,Aspen Manufacturing 0660,REG2,Hospitality,Enterprise
+CUS000661,Horizon Manufacturing 0661,REG2,Manufacturing,SME
+CUS000662,Oak Manufacturing 0662,REG1,Manufacturing,SME
+CUS000663,Aspen Professional services 0663,REG1,Retail,SME
+CUS000664,Aspen Retail 0664,REG1,Hospitality,SME
+CUS000665,Horizon Hospitality 0665,REG1,Retail,SME
+CUS000666,Cedar Manufacturing 0666,REG1,Education,SME
+CUS000667,Beacon Professional services 0667,REG6,Healthcare,SME
+CUS000668,Aspen Retail 0668,REG1,Manufacturing,SME
+CUS000669,Oak Professional services 0669,REG4,Manufacturing,SME
+CUS000670,Bridge Professional services 0670,REG3,Manufacturing,SME
+CUS000671,Beacon Healthcare 0671,REG4,Healthcare,Enterprise
+CUS000672,Horizon Hospitality 0672,REG1,Manufacturing,SME
+CUS000673,Summit Education 0673,REG4,Professional services,Enterprise
+CUS000674,Aspen Education 0674,REG2,Manufacturing,SME
+CUS000675,Beacon Manufacturing 0675,REG2,Education,Enterprise
+CUS000676,Oak Healthcare 0676,REG5,Retail,SME
+CUS000677,Oak Education 0677,REG1,Hospitality,SME
+CUS000678,Cedar Professional services 0678,REG1,Manufacturing,SME
+CUS000679,Oak Manufacturing 0679,REG5,Retail,Enterprise
+CUS000680,Bridge Education 0680,REG2,Education,SME
+CUS000681,Oak Retail 0681,REG2,Healthcare,SME
+CUS000682,Unity Professional services 0682,REG3,Healthcare,SME
+CUS000683,Beacon Manufacturing 0683,REG1,Hospitality,SME
+CUS000684,Beacon Hospitality 0684,REG1,Professional services,Enterprise
+CUS000685,Summit Education 0685,REG1,Manufacturing,SME
+CUS000686,Bridge Education 0686,REG5,Education,SME
+CUS000687,Aspen Manufacturing 0687,REG3,Education,SME
+CUS000688,Oak Healthcare 0688,REG5,Retail,SME
+CUS000689,Summit Professional services 0689,REG6,Hospitality,SME
+CUS000690,Unity Retail 0690,REG3,Manufacturing,SME
+CUS000691,Aspen Healthcare 0691,REG4,Manufacturing,Public sector
+CUS000692,Unity Professional services 0692,REG6,Education,SME
+CUS000693,Bridge Education 0693,REG1,Manufacturing,SME
+CUS000694,Oak Professional services 0694,REG3,Manufacturing,Enterprise
+CUS000695,Cedar Retail 0695,REG2,Manufacturing,SME
+CUS000696,Aspen Hospitality 0696,REG1,Hospitality,SME
+CUS000697,Horizon Education 0697,REG2,Education,SME
+CUS000698,Aspen Professional services 0698,REG1,Professional services,SME
+CUS000699,Oak Hospitality 0699,REG1,Education,SME
+CUS000700,Beacon Hospitality 0700,REG1,Healthcare,Enterprise
+CUS000701,Aspen Education 0701,REG6,Manufacturing,SME
+CUS000702,Cedar Education 0702,REG1,Education,SME
+CUS000703,Beacon Education 0703,REG2,Education,Enterprise
+CUS000704,Bridge Manufacturing 0704,REG3,Professional services,Enterprise
+CUS000705,Cedar Manufacturing 0705,REG4,Retail,SME
+CUS000706,Cedar Professional services 0706,REG3,Education,SME
+CUS000707,Unity Retail 0707,REG2,Healthcare,SME
+CUS000708,Bridge Education 0708,REG1,Retail,SME
+CUS000709,Summit Education 0709,REG5,Education,Enterprise
+CUS000710,Bridge Hospitality 0710,REG1,Professional services,Enterprise
+CUS000711,Aspen Retail 0711,REG3,Professional services,SME
+CUS000712,Horizon Manufacturing 0712,REG1,Education,SME
+CUS000713,Unity Manufacturing 0713,REG2,Retail,SME
+CUS000714,Aspen Hospitality 0714,REG4,Healthcare,SME
+CUS000715,Summit Manufacturing 0715,REG1,Professional services,SME
+CUS000716,Summit Hospitality 0716,REG2,Hospitality,Enterprise
+CUS000717,Beacon Hospitality 0717,REG3,Hospitality,SME
+CUS000718,Aspen Hospitality 0718,REG1,Retail,SME
+CUS000719,Horizon Healthcare 0719,REG1,Professional services,SME
+CUS000720,Unity Education 0720,REG2,Education,SME
+CUS000721,Cedar Manufacturing 0721,REG1,Healthcare,SME
+CUS000722,Horizon Professional services 0722,REG1,Professional services,Enterprise
+CUS000723,Oak Retail 0723,REG1,Hospitality,SME
+CUS000724,Summit Education 0724,REG2,Professional services,SME
+CUS000725,Summit Healthcare 0725,REG1,Manufacturing,SME
+CUS000726,Summit Education 0726,REG3,Healthcare,SME
+CUS000727,Unity Healthcare 0727,REG1,Manufacturing,SME
+CUS000728,Unity Manufacturing 0728,REG1,Healthcare,SME
+CUS000729,Cedar Hospitality 0729,REG2,Professional services,SME
+CUS000730,Summit Healthcare 0730,REG5,Retail,Enterprise
+CUS000731,Horizon Manufacturing 0731,REG1,Retail,SME
+CUS000732,Aspen Retail 0732,REG1,Retail,SME
+CUS000733,Beacon Professional services 0733,REG4,Education,Enterprise
+CUS000734,Oak Professional services 0734,REG1,Education,SME
+CUS000735,Oak Healthcare 0735,REG1,Healthcare,SME
+CUS000736,Unity Hospitality 0736,REG5,Retail,SME
+CUS000737,Unity Professional services 0737,REG2,Professional services,Enterprise
+CUS000738,Horizon Retail 0738,REG3,Healthcare,SME
+CUS000739,Aspen Retail 0739,REG1,Hospitality,SME
+CUS000740,Aspen Healthcare 0740,REG4,Professional services,SME
+CUS000741,Beacon Retail 0741,REG4,Education,SME
+CUS000742,Aspen Retail 0742,REG1,Manufacturing,Enterprise
+CUS000743,Bridge Education 0743,REG1,Manufacturing,Enterprise
+CUS000744,Beacon Professional services 0744,REG1,Manufacturing,SME
+CUS000745,Bridge Professional services 0745,REG1,Education,Enterprise
+CUS000746,Aspen Healthcare 0746,REG5,Professional services,SME
+CUS000747,Beacon Healthcare 0747,REG1,Hospitality,Enterprise
+CUS000748,Beacon Retail 0748,REG3,Healthcare,SME
+CUS000749,Summit Retail 0749,REG3,Retail,Enterprise
+CUS000750,Cedar Education 0750,REG1,Manufacturing,SME
+CUS000751,Bridge Education 0751,REG6,Professional services,SME
+CUS000752,Aspen Healthcare 0752,REG1,Retail,SME
+CUS000753,Unity Professional services 0753,REG2,Healthcare,SME
+CUS000754,Beacon Retail 0754,REG4,Healthcare,SME
+CUS000755,Summit Retail 0755,REG4,Manufacturing,SME
+CUS000756,Cedar Hospitality 0756,REG3,Professional services,SME
+CUS000757,Horizon Manufacturing 0757,REG1,Manufacturing,SME
+CUS000758,Bridge Retail 0758,REG3,Education,Enterprise
+CUS000759,Unity Healthcare 0759,REG2,Professional services,Enterprise
+CUS000760,Unity Manufacturing 0760,REG1,Professional services,SME
+CUS000761,Oak Education 0761,REG4,Healthcare,SME
+CUS000762,Oak Healthcare 0762,REG2,Hospitality,SME
+CUS000763,Aspen Healthcare 0763,REG1,Professional services,Enterprise
+CUS000764,Cedar Retail 0764,REG5,Healthcare,SME
+CUS000765,Oak Healthcare 0765,REG3,Hospitality,SME
+CUS000766,Beacon Education 0766,REG1,Healthcare,SME
+CUS000767,Cedar Manufacturing 0767,REG1,Healthcare,SME
+CUS000768,Unity Retail 0768,REG2,Manufacturing,Enterprise
+CUS000769,Aspen Manufacturing 0769,REG1,Professional services,SME
+CUS000770,Beacon Healthcare 0770,REG2,Manufacturing,SME
+CUS000771,Oak Hospitality 0771,REG2,Professional services,Enterprise
+CUS000772,Unity Retail 0772,REG4,Healthcare,Enterprise
+CUS000773,Horizon Manufacturing 0773,REG1,Manufacturing,Enterprise
+CUS000774,Aspen Manufacturing 0774,REG1,Professional services,SME
+CUS000775,Summit Retail 0775,REG4,Professional services,SME
+CUS000776,Unity Healthcare 0776,REG5,Retail,Public sector
+CUS000777,Horizon Healthcare 0777,REG6,Education,Enterprise
+CUS000778,Cedar Manufacturing 0778,REG3,Healthcare,SME
+CUS000779,Summit Healthcare 0779,REG1,Education,SME
+CUS000780,Horizon Hospitality 0780,REG1,Retail,SME
+CUS000781,Unity Healthcare 0781,REG2,Retail,SME
+CUS000782,Horizon Professional services 0782,REG4,Education,Enterprise
+CUS000783,Aspen Hospitality 0783,REG5,Healthcare,SME
+CUS000784,Cedar Hospitality 0784,REG1,Professional services,SME
+CUS000785,Horizon Manufacturing 0785,REG4,Education,SME
+CUS000786,Beacon Manufacturing 0786,REG1,Retail,Enterprise
+CUS000787,Summit Retail 0787,REG1,Healthcare,SME
+CUS000788,Horizon Education 0788,REG6,Education,SME
+CUS000789,Oak Professional services 0789,REG1,Healthcare,SME
+CUS000790,Horizon Manufacturing 0790,REG1,Education,SME
+CUS000791,Horizon Retail 0791,REG3,Healthcare,Public sector
+CUS000792,Unity Manufacturing 0792,REG1,Retail,SME
+CUS000793,Cedar Healthcare 0793,REG1,Manufacturing,Enterprise
+CUS000794,Aspen Education 0794,REG3,Professional services,Enterprise
+CUS000795,Summit Healthcare 0795,REG1,Professional services,SME
+CUS000796,Aspen Hospitality 0796,REG6,Manufacturing,Public sector
+CUS000797,Oak Education 0797,REG1,Healthcare,Public sector
+CUS000798,Bridge Manufacturing 0798,REG1,Education,SME
+CUS000799,Bridge Professional services 0799,REG1,Education,SME
+CUS000800,Aspen Hospitality 0800,REG1,Retail,Public sector
+CUS000801,Beacon Professional services 0801,REG2,Manufacturing,SME
+CUS000802,Horizon Retail 0802,REG6,Retail,Enterprise
+CUS000803,Aspen Hospitality 0803,REG1,Professional services,SME
+CUS000804,Oak Retail 0804,REG3,Hospitality,SME
+CUS000805,Beacon Manufacturing 0805,REG5,Education,SME
+CUS000806,Horizon Healthcare 0806,REG1,Healthcare,SME
+CUS000807,Aspen Manufacturing 0807,REG3,Retail,SME
+CUS000808,Horizon Education 0808,REG1,Manufacturing,Public sector
+CUS000809,Bridge Retail 0809,REG1,Retail,SME
+CUS000810,Aspen Hospitality 0810,REG6,Retail,Public sector
+CUS000811,Cedar Healthcare 0811,REG1,Healthcare,SME
+CUS000812,Horizon Education 0812,REG3,Healthcare,SME
+CUS000813,Bridge Education 0813,REG1,Professional services,SME
+CUS000814,Cedar Healthcare 0814,REG1,Professional services,SME
+CUS000815,Aspen Hospitality 0815,REG1,Professional services,SME
+CUS000816,Summit Manufacturing 0816,REG1,Manufacturing,SME
+CUS000817,Aspen Professional services 0817,REG4,Retail,SME
+CUS000818,Horizon Hospitality 0818,REG1,Education,Enterprise
+CUS000819,Summit Education 0819,REG4,Education,SME
+CUS000820,Unity Education 0820,REG4,Hospitality,SME
+CUS000821,Oak Professional services 0821,REG2,Manufacturing,SME
+CUS000822,Summit Manufacturing 0822,REG4,Retail,Enterprise
+CUS000823,Summit Hospitality 0823,REG1,Healthcare,SME
+CUS000824,Unity Hospitality 0824,REG4,Retail,Enterprise
+CUS000825,Cedar Hospitality 0825,REG1,Hospitality,Enterprise
+CUS000826,Aspen Manufacturing 0826,REG4,Healthcare,SME
+CUS000827,Bridge Healthcare 0827,REG1,Healthcare,Enterprise
+CUS000828,Beacon Education 0828,REG4,Healthcare,SME
+CUS000829,Aspen Manufacturing 0829,REG4,Retail,SME
+CUS000830,Cedar Hospitality 0830,REG1,Retail,SME
+CUS000831,Summit Retail 0831,REG4,Education,SME
+CUS000832,Beacon Professional services 0832,REG2,Manufacturing,SME
+CUS000833,Horizon Retail 0833,REG3,Retail,Enterprise
+CUS000834,Summit Hospitality 0834,REG1,Manufacturing,Enterprise
+CUS000835,Horizon Healthcare 0835,REG1,Hospitality,SME
+CUS000836,Aspen Hospitality 0836,REG1,Education,Public sector
+CUS000837,Aspen Hospitality 0837,REG1,Healthcare,Public sector
+CUS000838,Cedar Manufacturing 0838,REG3,Healthcare,SME
+CUS000839,Aspen Professional services 0839,REG4,Manufacturing,SME
+CUS000840,Aspen Professional services 0840,REG2,Retail,Public sector
+CUS000841,Aspen Education 0841,REG2,Healthcare,Enterprise
+CUS000842,Bridge Manufacturing 0842,REG1,Manufacturing,SME
+CUS000843,Summit Healthcare 0843,REG3,Hospitality,Enterprise
+CUS000844,Summit Manufacturing 0844,REG3,Manufacturing,Enterprise
+CUS000845,Horizon Manufacturing 0845,REG1,Retail,SME
+CUS000846,Horizon Healthcare 0846,REG1,Hospitality,SME
+CUS000847,Bridge Hospitality 0847,REG5,Manufacturing,Enterprise
+CUS000848,Summit Professional services 0848,REG1,Hospitality,SME
+CUS000849,Bridge Hospitality 0849,REG1,Healthcare,SME
+CUS000850,Cedar Retail 0850,REG4,Education,SME
+CUS000851,Cedar Professional services 0851,REG2,Healthcare,Enterprise
+CUS000852,Aspen Education 0852,REG1,Hospitality,Enterprise
+CUS000853,Cedar Manufacturing 0853,REG1,Hospitality,SME
+CUS000854,Horizon Manufacturing 0854,REG3,Professional services,Enterprise
+CUS000855,Cedar Professional services 0855,REG1,Retail,SME
+CUS000856,Beacon Education 0856,REG2,Manufacturing,SME
+CUS000857,Horizon Professional services 0857,REG1,Manufacturing,Enterprise
+CUS000858,Cedar Retail 0858,REG2,Manufacturing,SME
+CUS000859,Cedar Retail 0859,REG1,Professional services,Enterprise
+CUS000860,Cedar Professional services 0860,REG5,Professional services,SME
+CUS000861,Oak Healthcare 0861,REG3,Manufacturing,SME
+CUS000862,Summit Education 0862,REG1,Manufacturing,Enterprise
+CUS000863,Summit Retail 0863,REG6,Healthcare,SME
+CUS000864,Summit Education 0864,REG1,Education,SME
+CUS000865,Oak Manufacturing 0865,REG6,Retail,SME
+CUS000866,Summit Education 0866,REG3,Healthcare,SME
+CUS000867,Unity Retail 0867,REG4,Healthcare,SME
+CUS000868,Oak Manufacturing 0868,REG2,Healthcare,Public sector
+CUS000869,Cedar Hospitality 0869,REG1,Hospitality,SME
+CUS000870,Bridge Education 0870,REG3,Education,SME
+CUS000871,Beacon Retail 0871,REG5,Hospitality,Enterprise
+CUS000872,Unity Manufacturing 0872,REG1,Hospitality,SME
+CUS000873,Oak Professional services 0873,REG2,Education,Enterprise
+CUS000874,Horizon Healthcare 0874,REG1,Education,SME
+CUS000875,Beacon Retail 0875,REG1,Professional services,SME
+CUS000876,Cedar Manufacturing 0876,REG3,Professional services,Enterprise
+CUS000877,Aspen Manufacturing 0877,REG4,Manufacturing,SME
+CUS000878,Summit Hospitality 0878,REG1,Healthcare,SME
+CUS000879,Horizon Retail 0879,REG5,Hospitality,SME
+CUS000880,Beacon Manufacturing 0880,REG2,Education,Enterprise
+CUS000881,Aspen Manufacturing 0881,REG4,Professional services,SME
+CUS000882,Beacon Hospitality 0882,REG1,Professional services,SME
+CUS000883,Horizon Healthcare 0883,REG6,Hospitality,Public sector
+CUS000884,Aspen Manufacturing 0884,REG2,Education,Enterprise
+CUS000885,Bridge Retail 0885,REG4,Hospitality,SME
+CUS000886,Oak Education 0886,REG2,Professional services,SME
+CUS000887,Unity Professional services 0887,REG1,Education,SME
+CUS000888,Aspen Manufacturing 0888,REG6,Professional services,Enterprise
+CUS000889,Beacon Professional services 0889,REG5,Professional services,SME
+CUS000890,Horizon Manufacturing 0890,REG1,Professional services,Enterprise
+CUS000891,Bridge Healthcare 0891,REG2,Professional services,SME
+CUS000892,Horizon Education 0892,REG1,Professional services,SME
+CUS000893,Beacon Hospitality 0893,REG4,Retail,Enterprise
+CUS000894,Cedar Education 0894,REG4,Hospitality,SME
+CUS000895,Beacon Professional services 0895,REG2,Retail,SME
+CUS000896,Aspen Retail 0896,REG1,Retail,SME
+CUS000897,Aspen Education 0897,REG1,Manufacturing,SME
+CUS000898,Beacon Hospitality 0898,REG2,Manufacturing,SME
+CUS000899,Bridge Retail 0899,REG1,Education,SME
+CUS000900,Oak Professional services 0900,REG2,Manufacturing,SME
+CUS000901,Horizon Manufacturing 0901,REG1,Manufacturing,SME
+CUS000902,Unity Retail 0902,REG1,Retail,SME
+CUS000903,Bridge Manufacturing 0903,REG5,Hospitality,SME
+CUS000904,Bridge Healthcare 0904,REG1,Healthcare,SME
+CUS000905,Beacon Retail 0905,REG1,Manufacturing,SME
+CUS000906,Aspen Retail 0906,REG1,Manufacturing,SME
+CUS000907,Unity Manufacturing 0907,REG1,Retail,SME
+CUS000908,Oak Hospitality 0908,REG4,Healthcare,Enterprise
+CUS000909,Cedar Retail 0909,REG3,Hospitality,Enterprise
+CUS000910,Bridge Retail 0910,REG4,Healthcare,Enterprise
+CUS000911,Unity Healthcare 0911,REG4,Retail,Enterprise
+CUS000912,Aspen Hospitality 0912,REG1,Manufacturing,SME
+CUS000913,Summit Hospitality 0913,REG5,Professional services,SME
+CUS000914,Horizon Education 0914,REG5,Manufacturing,SME
+CUS000915,Horizon Hospitality 0915,REG3,Retail,SME
+CUS000916,Oak Hospitality 0916,REG1,Education,Enterprise
+CUS000917,Unity Retail 0917,REG1,Education,SME
+CUS000918,Aspen Manufacturing 0918,REG3,Manufacturing,SME
+CUS000919,Oak Retail 0919,REG1,Hospitality,SME
+CUS000920,Cedar Healthcare 0920,REG1,Manufacturing,SME
+CUS000921,Horizon Education 0921,REG1,Professional services,SME
+CUS000922,Horizon Retail 0922,REG1,Professional services,Enterprise
+CUS000923,Summit Hospitality 0923,REG1,Education,SME
+CUS000924,Aspen Professional services 0924,REG4,Healthcare,Enterprise
+CUS000925,Oak Professional services 0925,REG6,Hospitality,SME
+CUS000926,Aspen Healthcare 0926,REG6,Hospitality,SME
+CUS000927,Oak Education 0927,REG4,Professional services,Enterprise
+CUS000928,Cedar Hospitality 0928,REG6,Education,SME
+CUS000929,Horizon Retail 0929,REG2,Healthcare,SME
+CUS000930,Beacon Education 0930,REG1,Manufacturing,Enterprise
+CUS000931,Aspen Hospitality 0931,REG1,Manufacturing,Enterprise
+CUS000932,Summit Healthcare 0932,REG1,Professional services,Enterprise
+CUS000933,Bridge Education 0933,REG1,Education,Enterprise
+CUS000934,Beacon Professional services 0934,REG1,Retail,SME
+CUS000935,Unity Healthcare 0935,REG4,Hospitality,Enterprise
+CUS000936,Aspen Healthcare 0936,REG1,Hospitality,Public sector
+CUS000937,Summit Healthcare 0937,REG4,Hospitality,SME
+CUS000938,Bridge Manufacturing 0938,REG2,Retail,SME
+CUS000939,Aspen Hospitality 0939,REG4,Hospitality,SME
+CUS000940,Horizon Hospitality 0940,REG6,Retail,Enterprise
+CUS000941,Cedar Professional services 0941,REG4,Healthcare,SME
+CUS000942,Horizon Healthcare 0942,REG2,Manufacturing,SME
+CUS000943,Aspen Healthcare 0943,REG1,Education,SME
+CUS000944,Unity Retail 0944,REG3,Healthcare,SME
+CUS000945,Oak Hospitality 0945,REG2,Professional services,SME
+CUS000946,Horizon Healthcare 0946,REG6,Manufacturing,SME
+CUS000947,Bridge Professional services 0947,REG2,Professional services,SME
+CUS000948,Beacon Retail 0948,REG3,Education,SME
+CUS000949,Horizon Manufacturing 0949,REG1,Professional services,SME
+CUS000950,Bridge Hospitality 0950,REG2,Hospitality,SME
+CUS000951,Bridge Retail 0951,REG1,Professional services,SME
+CUS000952,Beacon Hospitality 0952,REG2,Professional services,SME
+CUS000953,Unity Professional services 0953,REG4,Hospitality,Enterprise
+CUS000954,Unity Retail 0954,REG1,Professional services,SME
+CUS000955,Horizon Manufacturing 0955,REG1,Retail,Enterprise
+CUS000956,Bridge Professional services 0956,REG1,Manufacturing,SME
+CUS000957,Aspen Healthcare 0957,REG4,Retail,SME
+CUS000958,Oak Professional services 0958,REG4,Manufacturing,SME
+CUS000959,Beacon Education 0959,REG3,Professional services,SME
+CUS000960,Unity Hospitality 0960,REG3,Retail,Enterprise
+CUS000961,Cedar Education 0961,REG3,Manufacturing,SME
+CUS000962,Cedar Healthcare 0962,REG2,Retail,SME
+CUS000963,Aspen Hospitality 0963,REG1,Hospitality,SME
+CUS000964,Unity Healthcare 0964,REG1,Healthcare,SME
+CUS000965,Horizon Professional services 0965,REG1,Manufacturing,Public sector
+CUS000966,Beacon Hospitality 0966,REG3,Professional services,SME
+CUS000967,Bridge Manufacturing 0967,REG5,Healthcare,SME
+CUS000968,Aspen Retail 0968,REG1,Healthcare,SME
+CUS000969,Unity Professional services 0969,REG5,Professional services,SME
+CUS000970,Unity Healthcare 0970,REG1,Education,SME
+CUS000971,Horizon Manufacturing 0971,REG4,Retail,Enterprise
+CUS000972,Cedar Education 0972,REG1,Retail,Enterprise
+CUS000973,Summit Professional services 0973,REG1,Retail,SME
+CUS000974,Aspen Education 0974,REG1,Professional services,SME
+CUS000975,Horizon Manufacturing 0975,REG4,Retail,SME
+CUS000976,Horizon Education 0976,REG5,Retail,Enterprise
+CUS000977,Cedar Healthcare 0977,REG5,Education,SME
+CUS000978,Oak Healthcare 0978,REG1,Professional services,Enterprise
+CUS000979,Aspen Education 0979,REG1,Professional services,SME
+CUS000980,Bridge Hospitality 0980,REG1,Hospitality,SME
+CUS000981,Bridge Manufacturing 0981,REG5,Retail,SME
+CUS000982,Oak Hospitality 0982,REG3,Retail,Enterprise
+CUS000983,Bridge Manufacturing 0983,REG2,Hospitality,SME
+CUS000984,Beacon Education 0984,REG5,Education,SME
+CUS000985,Aspen Retail 0985,REG2,Healthcare,Enterprise
+CUS000986,Horizon Healthcare 0986,REG1,Retail,SME
+CUS000987,Oak Healthcare 0987,REG4,Professional services,SME
+CUS000988,Horizon Professional services 0988,REG2,Hospitality,SME
+CUS000989,Unity Professional services 0989,REG1,Manufacturing,SME
+CUS000990,Aspen Healthcare 0990,REG5,Retail,Enterprise
+CUS000991,Oak Hospitality 0991,REG1,Manufacturing,SME
+CUS000992,Bridge Manufacturing 0992,REG3,Healthcare,SME
+CUS000993,Unity Healthcare 0993,REG5,Professional services,SME
+CUS000994,Oak Hospitality 0994,REG1,Professional services,SME
+CUS000995,Beacon Professional services 0995,REG6,Manufacturing,Public sector
+CUS000996,Horizon Education 0996,REG1,Hospitality,Enterprise
+CUS000997,Bridge Retail 0997,REG4,Hospitality,SME
+CUS000998,Horizon Healthcare 0998,REG1,Professional services,SME
+CUS000999,Bridge Manufacturing 0999,REG4,Professional services,SME
+CUS001000,Beacon Healthcare 1000,REG6,Hospitality,Enterprise
+CUS001001,Unity Manufacturing 1001,REG5,Healthcare,SME
+CUS001002,Aspen Retail 1002,REG1,Retail,SME
+CUS001003,Oak Manufacturing 1003,REG2,Education,SME
+CUS001004,Oak Hospitality 1004,REG2,Professional services,SME
+CUS001005,Beacon Retail 1005,REG1,Professional services,SME
+CUS001006,Aspen Hospitality 1006,REG4,Hospitality,Enterprise
+CUS001007,Bridge Hospitality 1007,REG3,Professional services,SME
+CUS001008,Bridge Professional services 1008,REG3,Hospitality,SME
+CUS001009,Beacon Retail 1009,REG1,Manufacturing,SME
+CUS001010,Oak Professional services 1010,REG2,Manufacturing,SME
+CUS001011,Oak Hospitality 1011,REG1,Manufacturing,Enterprise
+CUS001012,Summit Professional services 1012,REG1,Hospitality,Enterprise
+CUS001013,Oak Retail 1013,REG2,Manufacturing,SME
+CUS001014,Cedar Retail 1014,REG2,Education,Enterprise
+CUS001015,Cedar Professional services 1015,REG4,Manufacturing,SME
+CUS001016,Oak Hospitality 1016,REG1,Retail,Public sector
+CUS001017,Oak Hospitality 1017,REG4,Professional services,SME
+CUS001018,Cedar Hospitality 1018,REG1,Education,Enterprise
+CUS001019,Beacon Manufacturing 1019,REG4,Healthcare,SME
+CUS001020,Horizon Professional services 1020,REG1,Professional services,Enterprise
+CUS001021,Horizon Education 1021,REG5,Healthcare,SME
+CUS001022,Summit Healthcare 1022,REG3,Professional services,Enterprise
+CUS001023,Cedar Education 1023,REG2,Healthcare,Enterprise
+CUS001024,Oak Education 1024,REG4,Professional services,SME
+CUS001025,Horizon Manufacturing 1025,REG1,Professional services,Enterprise
+CUS001026,Aspen Professional services 1026,REG1,Hospitality,SME
+CUS001027,Aspen Retail 1027,REG2,Hospitality,Enterprise
+CUS001028,Horizon Manufacturing 1028,REG6,Professional services,SME
+CUS001029,Cedar Professional services 1029,REG5,Healthcare,SME
+CUS001030,Horizon Education 1030,REG1,Healthcare,SME
+CUS001031,Unity Manufacturing 1031,REG4,Healthcare,SME
+CUS001032,Unity Hospitality 1032,REG1,Professional services,SME
+CUS001033,Unity Hospitality 1033,REG1,Retail,Public sector
+CUS001034,Oak Manufacturing 1034,REG1,Retail,SME
+CUS001035,Summit Healthcare 1035,REG1,Healthcare,Enterprise
+CUS001036,Summit Professional services 1036,REG1,Education,SME
+CUS001037,Horizon Professional services 1037,REG2,Professional services,SME
+CUS001038,Summit Professional services 1038,REG1,Hospitality,SME
+CUS001039,Summit Professional services 1039,REG4,Professional services,SME
+CUS001040,Cedar Hospitality 1040,REG5,Retail,Enterprise
+CUS001041,Cedar Retail 1041,REG3,Hospitality,Enterprise
+CUS001042,Unity Manufacturing 1042,REG2,Retail,SME
+CUS001043,Beacon Professional services 1043,REG2,Professional services,Enterprise
+CUS001044,Unity Professional services 1044,REG6,Professional services,SME
+CUS001045,Unity Healthcare 1045,REG5,Healthcare,SME
+CUS001046,Unity Education 1046,REG1,Retail,SME
+CUS001047,Unity Education 1047,REG2,Retail,SME
+CUS001048,Beacon Hospitality 1048,REG4,Manufacturing,SME
+CUS001049,Bridge Hospitality 1049,REG4,Manufacturing,SME
+CUS001050,Aspen Retail 1050,REG1,Hospitality,SME
+CUS001051,Unity Healthcare 1051,REG1,Healthcare,SME
+CUS001052,Aspen Healthcare 1052,REG1,Hospitality,Public sector
+CUS001053,Bridge Hospitality 1053,REG1,Education,SME
+CUS001054,Cedar Hospitality 1054,REG1,Hospitality,Enterprise
+CUS001055,Aspen Manufacturing 1055,REG1,Education,SME
+CUS001056,Cedar Education 1056,REG1,Education,SME
+CUS001057,Oak Education 1057,REG1,Manufacturing,SME
+CUS001058,Aspen Education 1058,REG5,Retail,SME
+CUS001059,Beacon Healthcare 1059,REG1,Hospitality,Enterprise
+CUS001060,Beacon Retail 1060,REG5,Healthcare,Enterprise
+CUS001061,Cedar Hospitality 1061,REG1,Healthcare,SME
+CUS001062,Aspen Education 1062,REG5,Retail,SME
+CUS001063,Cedar Healthcare 1063,REG1,Manufacturing,SME
+CUS001064,Cedar Healthcare 1064,REG1,Retail,SME
+CUS001065,Unity Healthcare 1065,REG1,Professional services,SME
+CUS001066,Aspen Hospitality 1066,REG1,Hospitality,Enterprise
+CUS001067,Summit Professional services 1067,REG6,Hospitality,Enterprise
+CUS001068,Unity Retail 1068,REG4,Hospitality,SME
+CUS001069,Cedar Healthcare 1069,REG2,Professional services,SME
+CUS001070,Horizon Professional services 1070,REG5,Education,SME
+CUS001071,Unity Healthcare 1071,REG6,Manufacturing,SME
+CUS001072,Oak Professional services 1072,REG1,Retail,SME
+CUS001073,Horizon Retail 1073,REG4,Healthcare,SME
+CUS001074,Aspen Retail 1074,REG3,Healthcare,Enterprise
+CUS001075,Bridge Manufacturing 1075,REG5,Manufacturing,SME
+CUS001076,Beacon Manufacturing 1076,REG3,Manufacturing,SME
+CUS001077,Summit Professional services 1077,REG4,Professional services,Public sector
+CUS001078,Horizon Manufacturing 1078,REG3,Retail,SME
+CUS001079,Summit Hospitality 1079,REG6,Retail,SME
+CUS001080,Summit Professional services 1080,REG4,Manufacturing,Enterprise
+CUS001081,Horizon Retail 1081,REG2,Professional services,Enterprise
+CUS001082,Horizon Professional services 1082,REG4,Retail,SME
+CUS001083,Cedar Healthcare 1083,REG3,Manufacturing,SME
+CUS001084,Oak Manufacturing 1084,REG1,Retail,SME
+CUS001085,Bridge Hospitality 1085,REG3,Healthcare,SME
+CUS001086,Unity Retail 1086,REG1,Hospitality,SME
+CUS001087,Unity Education 1087,REG1,Professional services,Enterprise
+CUS001088,Summit Manufacturing 1088,REG2,Hospitality,Enterprise
+CUS001089,Cedar Retail 1089,REG1,Healthcare,SME
+CUS001090,Cedar Manufacturing 1090,REG1,Healthcare,SME
+CUS001091,Horizon Retail 1091,REG3,Manufacturing,Enterprise
+CUS001092,Unity Education 1092,REG3,Healthcare,Enterprise
+CUS001093,Aspen Professional services 1093,REG2,Manufacturing,SME
+CUS001094,Bridge Hospitality 1094,REG1,Professional services,Enterprise
+CUS001095,Horizon Retail 1095,REG3,Manufacturing,SME
+CUS001096,Beacon Healthcare 1096,REG4,Education,SME
+CUS001097,Cedar Manufacturing 1097,REG5,Education,SME
+CUS001098,Horizon Retail 1098,REG2,Hospitality,SME
+CUS001099,Cedar Retail 1099,REG1,Education,SME
+CUS001100,Unity Manufacturing 1100,REG1,Professional services,Enterprise

@@ -2,9 +2,11 @@
 
 ## Kora - 2025 only
 
-[Download the complete Kora pack](project%20packs/Kora%20-%202025%20only/Kora-2025-only.zip?raw=true)
+- [Browse the project files](project%20packs/Kora%20-%202025%20only/)
+- [Read the project guide](project%20packs/Kora%20-%202025%20only/Kora-2025-only.pdf)
+- [Download the complete ZIP](project%20packs/Kora%20-%202025%20only/Kora-2025-only.zip?raw=true)
 
-Download this one ZIP, extract it, and open `Kora-2025-only.pdf`.
+Browse individual files on GitHub, or download the ZIP, extract it, and open `Kora-2025-only.pdf`.
 
 The pack includes the project guide, seven CSV tables, SQLite and SQL Server setup files, data references, starter queries and a findings template. The guide contains the database schema and both project briefs.
 
