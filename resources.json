@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "repository": "angelspace0530/analyticsbycadenceplus",
+  "description": "Public educational resource catalogue for CadencePlus Solutions. Published entries only; paid files must not be stored in this public repository.",
+  "categories": [
+    {
+      "id": "project-packs",
+      "label": "Project Packs",
+      "description": "Self-contained project exercises, datasets, setup files, guides and templates."
+    },
+    {
+      "id": "guides",
+      "label": "Guides",
+      "description": "Learning and reference guides."
+    },
+    {
+      "id": "templates",
+      "label": "Templates",
+      "description": "Reusable worksheets and reporting templates."
+    },
+    {
+      "id": "datasets",
+      "label": "Datasets",
+      "description": "Standalone datasets and supporting reference files."
+    }
+  ],
+  "collections": [
+    {
+      "id": "kora",
+      "title": "Kora",
+      "category_id": "project-packs",
+      "description": "Fictional business analytics project packs.",
+      "planned_pack_count": 4,
+      "published_pack_count": 1
+    }
+  ],
+  "resources": [
+    {
+      "id": "kora-2025-only",
+      "title": "Kora - 2025 only",
+      "category_id": "project-packs",
+      "collection_id": "kora",
+      "kind": "project-pack",
+      "status": "published",
+      "access": "free",
+      "version": "1.0.0",
+      "skills": [
+        "SQL",
+        "Data analysis"
+      ],
+      "level": "beginner",
+      "platforms": [
+        "SQL Server",
+        "SQLite"
+      ],
+      "description": "Synthetic 2025 orders and consignments for a fictional Nigerian workplace supplier. All values are NGN.",
+      "root_path": "project packs/Kora - 2025 only",
+      "files": {
+        "guide": "project packs/Kora - 2025 only/Kora-2025-only.pdf",
+        "download": "project packs/Kora - 2025 only/Kora-2025-only.zip",
+        "data_directory": "project packs/Kora - 2025 only/Data",
+        "sql_server_directory": "project packs/Kora - 2025 only/Database/SQL_Server",
+        "sqlite_directory": "project packs/Kora - 2025 only/Database/SQLite",
+        "projects_directory": "project packs/Kora - 2025 only/Projects",
+        "reference_directory": "project packs/Kora - 2025 only/Reference"
+      },
+      "tags": [
+        "kora",
+        "2025",
+        "synthetic",
+        "ngn"
+      ]
+    }
+  ]
+}
