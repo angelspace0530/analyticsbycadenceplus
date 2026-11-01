@@ -19,11 +19,11 @@ The machine-readable [resource catalogue](resources.json) lists **published** re
 
 **Kora is a collection of four intended project packs.** `Kora - 2025 only` is **one pack within that collection**, not the entire Kora offering. Only this pack is currently published in the repository; the other three will be listed when their files are published.
 
-#### [Kora - 2025 only](project%20packs/Kora%20-%202025%20only/)
+#### [Kora - 2025 only](project%20packs/Kora/Kora%20-%202025%20only/)
 
-- [Read the project guide](project%20packs/Kora%20-%202025%20only/Kora-2025-only.pdf)
-- [Download the complete ZIP](project%20packs/Kora%20-%202025%20only/Kora-2025-only.zip?raw=true)
-- [Browse individual project files](project%20packs/Kora%20-%202025%20only/)
+- [Read the project guide](project%20packs/Kora/Kora%20-%202025%20only/Kora-2025-only.pdf)
+- [Download the complete ZIP](project%20packs/Kora/Kora%20-%202025%20only/Kora-2025-only.zip?raw=true)
+- [Browse individual project files](project%20packs/Kora/Kora%20-%202025%20only/)
 
 Download the ZIP, extract it and open `Kora-2025-only.pdf`. The pack includes seven CSV tables, SQL Server and SQLite setup resources, data references, starter queries and a findings template. The guide contains the database schema and two project briefs.
 
@@ -43,5 +43,5 @@ You may analyse the public practice data and publish your queries, dashboards an
 
 - Maintain each resource's own files and a stable unique ID in `resources.json`.
 - Add new categories and collections as needed; do not hardcode Kora as the entire catalogue.
-- Preserve published URLs when possible. Do not move `project packs/Kora - 2025 only` merely to introduce a new folder hierarchy.
+- The Kora pack is now inside the collection folder. Update external links that still point to its former location.
 - Follow [RESOURCE_PUBLISHING.md](RESOURCE_PUBLISHING.md) for publishing and verification steps.
