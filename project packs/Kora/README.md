@@ -4,7 +4,7 @@ Kora is a family of **four intended project packs** within the CadencePlus Solut
 
 ## Available now
 
-### Kora - 2025 only
+### Project 1: Kora - 2025 only
 
 - [Browse files](Kora%20-%202025%20only/)
 - [Read project guide](Kora%20-%202025%20only/Kora-2025-only.pdf)
