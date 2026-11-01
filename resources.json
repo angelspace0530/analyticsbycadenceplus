@@ -54,15 +54,15 @@
         "SQLite"
       ],
       "description": "Synthetic 2025 orders and consignments for a fictional Nigerian workplace supplier. All values are NGN.",
-      "root_path": "project packs/Kora - 2025 only",
+      "root_path": "project packs/Kora/Kora - 2025 only",
       "files": {
-        "guide": "project packs/Kora - 2025 only/Kora-2025-only.pdf",
-        "download": "project packs/Kora - 2025 only/Kora-2025-only.zip",
-        "data_directory": "project packs/Kora - 2025 only/Data",
-        "sql_server_directory": "project packs/Kora - 2025 only/Database/SQL_Server",
-        "sqlite_directory": "project packs/Kora - 2025 only/Database/SQLite",
-        "projects_directory": "project packs/Kora - 2025 only/Projects",
-        "reference_directory": "project packs/Kora - 2025 only/Reference"
+        "guide": "project packs/Kora/Kora - 2025 only/Kora-2025-only.pdf",
+        "download": "project packs/Kora/Kora - 2025 only/Kora-2025-only.zip",
+        "data_directory": "project packs/Kora/Kora - 2025 only/Data",
+        "sql_server_directory": "project packs/Kora/Kora - 2025 only/Database/SQL_Server",
+        "sqlite_directory": "project packs/Kora/Kora - 2025 only/Database/SQLite",
+        "projects_directory": "project packs/Kora/Kora - 2025 only/Projects",
+        "reference_directory": "project packs/Kora/Kora - 2025 only/Reference"
       },
       "tags": [
         "kora",
