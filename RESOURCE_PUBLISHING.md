@@ -4,7 +4,7 @@ This repository is a **growing public learning resource library**, not a reposit
 
 ## Current structure and compatibility
 
-The existing published path `project packs/Kora - 2025 only/` must remain stable because published URLs may reference it. **Do not move or rename it without a deliberate link migration.** Future folders can be organised more consistently, but folder structure must not determine the entire public catalogue.
+The published Kora pack has been moved to `project packs/Kora/Kora - 2025 only/` from `project packs/Kora - 2025 only/`. GitHub does not automatically redirect moved file URLs, so update any external links to the old PDF and ZIP paths. New Kora packs should be added as separate folders within the collection.
 
 Kora has **four intended project packs**. Only `Kora - 2025 only` is published in the current repository. Do not invent names, downloads, or published status for the remaining packs.
 
