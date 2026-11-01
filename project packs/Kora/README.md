@@ -14,10 +14,4 @@ This published pack includes synthetic 2025 business data, local SQL Server and 
 
 ## Other Kora packs
 
-Three additional Kora packs are intended for this collection, but are **not currently published in this repository**. They will be linked here when their files are ready. Do not interpret the four-pack plan as four available downloads.
-
-## Folder compatibility
-
-The published pack now lives directly inside this collection at `project packs/Kora/Kora - 2025 only/`. Older links to the former location must be updated; GitHub does not automatically redirect moved files.
-
-See the [resource catalogue](../../resources.json) and [publishing guide](../../RESOURCE_PUBLISHING.md) for resource metadata and release steps.
+Three additional Kora packs are intended for this collection, but are **not currently published in this repository**. They will be linked here when their files are ready.
