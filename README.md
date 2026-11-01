@@ -15,7 +15,7 @@ The machine-readable [resource catalogue](resources.json) lists **published** re
 
 ## Project Packs
 
-### Kora collection
+### [Kora collection](project%20packs/Kora/)
 
 **Kora is a collection of four intended project packs.** `Kora - 2025 only` is **one pack within that collection**, not the entire Kora offering. Only this pack is currently published in the repository; the other three will be listed when their files are published.
 
