@@ -131,7 +131,17 @@ Start with deliveries and branches. Remember one delivery row is one consignment
 
 ## Files and control totals
 
-Table Expected rows regions 6 branches 6 customers 1,100 products 54 orders 6,001 order_lines 15,491 deliveries 6,408 All-order net value is 17,713,266,033.00 NGN. This includes cancelled orders. It is an import control, not recognized revenue.
+| Table | Expected rows |
+| --- | ---: |
+| regions | 6 |
+| branches | 6 |
+| customers | 1,100 |
+| products | 54 |
+| orders | 6,001 |
+| order_lines | 15,491 |
+| deliveries | 6,408 |
+
+All-order net value is **17,713,266,033.00 NGN**. This includes cancelled orders. It is an import control, not recognized revenue.
 
 ### Reuse and credit
 
