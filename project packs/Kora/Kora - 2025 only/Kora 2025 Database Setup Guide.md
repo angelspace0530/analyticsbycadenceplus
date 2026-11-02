@@ -2,16 +2,16 @@
 
 # Kora database setup
 
-5
-+		\] 4 SQLite   ·   SQL Server   ·   PostgreSQL   ·   MySQL
+5
++		**SQLite · SQL Server · PostgreSQL · MySQL**
 
 ## Load Kora into a local database
 
 ### Start with the extracted folder
 
-Download the learner ZIP and extract it. On Windows choose Extract All; on Mac open the ZIP to extract it. Open Kora 2025 Project Guide.md in your browser. Keep your own queries and reports in a separate working folder. 5$		"	
-	
-
+Download the learner ZIP and extract it. On Windows choose Extract All; on Mac open the ZIP to extract it. Read the [Kora 2025 Project Guide](Kora%202025%20Project%20Guide.md) for the dataset and project requirements. Keep your own queries and reports in a separate working folder.
+
+**Choose a database engine and follow the applicable instructions.**
 
 ### Route A SQLite on Mac or Windows
 
@@ -25,18 +25,20 @@ If you already have SQLite on your windows, you can skip to number 2 If you are 
 6. In Execute SQL, run SELECT COUNT(*) AS orders_loaded FROM orders; using the execute button. Expect 6001.
 7. Open Database/SQLite/02_Check_Load.sql in the SQL editor and run its statements. Compare counts to the table below. integrity_check should return ok; foreign_key_check should return no problem rows.
 8. Close the application, reopen My_Kora_Starter.sqlite and repeat the count to confirm the file was saved. Now start Project 1. Already comfortable loading databases? Open Database/SQLite/Kora_Starter.sqlite directly. It contains the same data but skips the import lesson.
+
 ### Route B SQL Server on Windows
 
 If you already have SQL Server on your windows, you can skip to number 3
 
-1. Install the free SQL Server Express database engine from https://www.microsoft.com/en-us/sql- server/sql-server-downloads and keep the instance name shown by setup. Basic installation is suitable for a local learning instance. Use Windows Authentication for this route.
+1. Install the free SQL Server Express database engine from https://www.microsoft.com/en-us/sql-server/sql-server-downloads and keep the instance name shown by setup. Basic installation is suitable for a local learning instance. Use Windows Authentication for this route.
 2. Install SQL Server Management Studio from https://learn.microsoft.com/en-us/ssms/install/install . SSMS is the interface you will use to interact with your local database engine.
 3. Open SSMS and connect to the local Database Engine using Windows Authentication and the instance name from setup. A named instance commonly looks like localhost\SQLEXPRESS; a default instance can use localhost. Use your actual instance name.
 4. Open Database/SQL_Server/00_Create_Database.sql with File > Open > File. Run the whole file with Execute. Expect current_database = KoraStarter.
 5. Open Database/SQL_Server/01_Load_Kora_Starter.sql and execute the whole file with no text selected. It creates the kora schema, all tables, relationships and data in KoraStarter. Expect Kora starter loaded successfully. It will stop if the kora schema already exists.
 6. Run Database/SQL_Server/02_Check_Load.sql. Compare the results with the controls. Refresh Object Explorer > Databases > KoraStarter > Tables.
 7. Open a new query connected to KoraStarter and run SELECT COUNT(*) AS orders_loaded FROM kora.orders; Expect 6001.
-### Route C PostreSQL
+
+### Route C PostgreSQL
 
 Windows or Mac. Use PostgreSQL and pgAdmin to create and query your local Kora database. You only need one database engine for this pack.
 
@@ -44,10 +46,12 @@ Windows or Mac. Use PostgreSQL and pgAdmin to create and query your local Kora d
 
 1. Install PostgreSQL from https://www.postgresql.org/download/. Include pgAdmin if it is offered by your installer. Set a local administrator password and keep it safe.
 2. Open pgAdmin, connect to your local server and create an empty database named kora_starter. Open Query Tool while connected to kora_starter, not the default postgres maintenance database.
+
 ### Load the data
 
 3. Open Database/PostgreSQL/01_Load_Kora_Starter.sql in Query Tool. Execute the entire script without selecting just one statement. It creates the kora schema and the seven related tables and inserts all records.
 4. Open and run Database/PostgreSQL/02_Check_Load.sql in kora_starter. It sets your session search path to kora, public and checks the load. Every missing-parent count should be zero.
+
 ### Your first query
 
 Run: SET search_path TO kora, public; then SELECT * FROM orders LIMIT 10; Alternatively, use the fully qualified name kora.orders. A new connection may need the search path set again.
@@ -64,10 +68,12 @@ Windows or Mac. Use MySQL Server and MySQL Workbench to work with the same seven
 
 1. Install MySQL Server and MySQL Workbench from https://dev.mysql.com/downloads/. The database server and the Workbench interface are separate components. Keep your local login details safe.
 2. Start the MySQL server. Open MySQL Workbench and connect to it using an account permitted to create databases and tables.
+
 ### Load the data
 
 3. Open Database/MySQL/01_Load_Kora_Starter.sql in MySQL Workbench. Execute the entire SQL script. It creates and selects kora_starter, creates the seven tables and inserts the data.
 4. Open Database/MySQL/02_Check_Load.sql and execute it. It starts with USE kora_starter; and verifies record counts, relationships, dates and money totals.
+
 ### Your first query
 
 Run: USE kora_starter; then SELECT * FROM orders LIMIT 10; You can also query kora_starter.orders without relying on the selected database.
@@ -83,6 +89,7 @@ Check that MySQL Server is running and that the Workbench connection uses the ex
 - Order dates range from 2025-01-01 to 2025-12-31.
 - Sum net_order_value_ngn is 17713266033.00 NGN across all order statuses.
 - Detailed controls are in Reference/Load_Control_Totals.json.
+
 ### First query
 
 SQLite: SELECT * FROM orders LIMIT 10; SQL Server: SELECT TOP (10) * FROM kora.orders; These show up to ten rows. Without ORDER BY, SQL does not promise which ten rows appear or their order. Add ORDER BY order_date, order_id for a repeatable display.
@@ -97,6 +104,7 @@ SQLite: SELECT * FROM orders LIMIT 10; SQL Server: SELECT TOP (10) * FROM kora.o
 - A blank CSV date becomes 0 in a spreadsheet: blank means missing or not yet applicable, not a date of zero. The SQL loader preserves SQL NULL.
 - SQLite says database is locked: close other tools using that same file, save or discard pending edits deliberately, and retry the read query.
 - Counts differ: confirm you used this starter extract rather than the original 45-table simulation and did not filter the Browse Data view. Run COUNT(*) in SQL.
+
 ### Use the data in Power BI or Excel
 
 The CSV files can be imported directly for reporting. Keep IDs as text, parse dates as ISO year-month-day, and set NGN values to decimal numbers using a locale that recognises the decimal point. Do not append the CSVs to the database after loading the SQL file; that would try to load the data twice. In Power BI, avoid blindly activating both Regions > Customers > Orders and Regions > Branches > Orders filter paths. Customer geography and branch geography represent different roles. Use separate role- playing region tables or one deliberate active path. Keep order_lines and deliveries as separate facts. Joining both raw tables on order_id duplicates values when an order has multiple lines and consignments. For a direct SQL Server connection, choose Get Data > SQL Server, enter your local instance and KoraStarter, and select the kora tables. SQLite does not use the SQL Server connector; use the CSV route for an accessible starter reporting workflow.
