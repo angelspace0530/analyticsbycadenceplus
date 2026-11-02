@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "repository": "angelspace0530/analyticsbycadenceplus",
+  "repository": "CadencePlusSolutions/analyticsbycadenceplus",
   "description": "Public educational resource catalogue for CadencePlus Solutions. Published entries only; paid files must not be stored in this public repository.",
   "categories": [
     {
@@ -43,7 +43,7 @@
       "kind": "project-pack",
       "status": "published",
       "access": "free",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "skills": [
         "SQL",
         "Data analysis"
@@ -51,18 +51,23 @@
       "level": "beginner",
       "platforms": [
         "SQL Server",
-        "SQLite"
+        "SQLite",
+        "PostgreSQL",
+        "MySQL"
       ],
       "description": "Synthetic 2025 orders and consignments for a fictional Nigerian workplace supplier. All values are NGN.",
       "root_path": "project packs/Kora/Kora - 2025 only",
       "files": {
-        "guide": "project packs/Kora/Kora - 2025 only/Kora-2025-only.pdf",
+        "guide": "project packs/Kora/Kora - 2025 only/Kora 2025 Project Guide.pdf",
         "download": "project packs/Kora/Kora - 2025 only/Kora-2025-only.zip",
         "data_directory": "project packs/Kora/Kora - 2025 only/Data",
         "sql_server_directory": "project packs/Kora/Kora - 2025 only/Database/SQL_Server",
         "sqlite_directory": "project packs/Kora/Kora - 2025 only/Database/SQLite",
         "projects_directory": "project packs/Kora/Kora - 2025 only/Projects",
-        "reference_directory": "project packs/Kora/Kora - 2025 only/Reference"
+        "reference_directory": "project packs/Kora/Kora - 2025 only/Reference",
+        "setup_guide": "project packs/Kora/Kora - 2025 only/Kora 2025 Database Setup Guide.pdf",
+        "postgresql_directory": "project packs/Kora/Kora - 2025 only/Database/PostgreSQL",
+        "mysql_directory": "project packs/Kora/Kora - 2025 only/Database/MySQL"
       },
       "tags": [
         "kora",
