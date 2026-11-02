@@ -1,0 +1,78 @@
+name: Publish Kora 2025 complete ZIP
+on:
+  push:
+    branches: [docs/kora-2025-two-guides-publish]
+    paths:
+      - 'project packs/Kora/Kora - 2025 only/*.pdf'
+      - '.github/workflows/publish-kora-2025-zip.yml'
+      - 'scripts/build_kora_2025_zip.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  build-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the branch to publish
+        uses: actions/checkout@v4
+        with:
+          ref: docs/kora-2025-two-guides-publish
+          persist-credentials: true
+      - name: Validate both approved PDFs exist and open
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          root=Path('project packs/Kora/Kora - 2025 only')
+          files=[root/'Kora 2025 Project Guide.pdf',root/'Kora 2025 Database Setup Guide.pdf']
+          for p in files:
+              assert p.is_file(), f'Missing approved PDF: {p}'
+              data=p.read_bytes()
+              assert len(data)>10000 and data[:5]==b'%PDF-', f'Invalid PDF: {p}'
+              assert b'%%EOF' in data[-1024:], f'Incomplete PDF: {p}'
+              print(f'Found {p}: {len(data)} bytes')
+          PY
+      - name: Remove obsolete guides and build complete ZIP
+        run: |
+          set -euo pipefail
+          rm -f 'project packs/Kora/Kora - 2025 only/Kora-2025-only.pdf'
+          rm -f 'project packs/Kora/Kora - 2025 only/Database/README_PostgreSQL_MySQL.md'
+          python3 scripts/build_kora_2025_zip.py
+      - name: Confirm all database folders and 7 source CSVs included
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          p=Path('project packs/Kora/Kora - 2025 only/Kora-2025-only.zip')
+          with ZipFile(p) as f:
+              all=set(f.namelist())
+              prefix='Kora - 2025 only/'
+              required=[
+                 'Kora 2025 Project Guide.pdf',
+                 'Kora 2025 Database Setup Guide.pdf',
+                 'Database/SQL_Server/01_Load_Kora_Starter.sql',
+                 'Database/SQLite/01_Load_Kora_Starter.sql',
+                 'Database/PostgreSQL/01_Load_Kora_Starter.sql',
+                 'Database/MySQL/01_Load_Kora_Starter.sql',
+                 'Data/regions.csv', 'Data/branches.csv','Data/customers.csv',
+                 'Data/products.csv','Data/orders.csv','Data/order_lines.csv','Data/deliveries.csv',
+                 'Reference/Data_Dictionary.csv','Reference/Relationships.csv',
+                 'Reference/Load_Control_Totals.json',
+                 'Projects/Findings_Template.md',
+              ]
+              missing=[r for r in required if prefix+r not in all]
+              assert not missing, f'Missing ZIP contents: {missing}'
+              assert f.testzip() is None, 'Corrupt ZIP'
+              assert all(not x.endswith('.zip') for x in all), 'Nested ZIP detected'
+              assert not any('README_PostgreSQL_MySQL.md' in x or 'Kora-2025-only.pdf' in x for x in all), 'Old guides remain'
+              print(f'ZIP VERIFIED: {len(all)} files, {p.stat().st_size} bytes')
+          PY
+      - name: Commit verified package to this branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A 'project packs/Kora/Kora - 2025 only'
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified complete Kora 2025 pack with approved PDFs"
+            git push origin HEAD:docs/kora-2025-two-guides-publish
+          fi
