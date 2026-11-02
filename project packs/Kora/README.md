@@ -10,7 +10,7 @@ Kora is a family of **four intended project packs** within the CadencePlus Solut
 - [Read project guide](Kora%20-%202025%20only/Kora-2025-only.pdf)
 - [Download complete ZIP](Kora%20-%202025%20only/Kora-2025-only.zip?raw=true)
 
-This published pack includes synthetic 2025 business data, local SQL Server and SQLite setup resources, project briefs, reference files and starter templates.
+This published pack includes synthetic 2025 business data, local SQL Server, SQLite, PostgreSQL and MySQL setup resources, project briefs, reference files and starter templates.
 
 ## Other Kora packs
 
