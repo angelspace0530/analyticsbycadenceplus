@@ -2,8 +2,7 @@
 
 # Kora database setup
 
-5
-+		**SQLite · SQL Server · PostgreSQL · MySQL**
+**SQLite · SQL Server · PostgreSQL · MySQL**
 
 ## Load Kora into a local database
 
