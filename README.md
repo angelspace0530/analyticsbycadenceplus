@@ -25,23 +25,15 @@ The machine-readable [resource catalogue](resources.json) lists **published** re
 - [Download the complete ZIP](project%20packs/Kora/Kora%20-%202025%20only/Kora-2025-only.zip?raw=true)
 - [Browse individual project files](project%20packs/Kora/Kora%20-%202025%20only/)
 
-Download the ZIP, extract it and open `Kora-2025-only.pdf`. The pack includes seven CSV tables, SQL Server and SQLite setup resources, data references, starter queries and a findings template. The guide contains the database schema and two project briefs.
+Download the ZIP, extract it and open `Kora-2025-only.pdf`. The pack includes seven CSV tables, SQL Server, SQLite, PostgreSQL and MySQL setup resources, data references, starter queries and a findings template. The guide contains the database schema and two project briefs.
 
 Kora is a fictional Nigerian workplace supplier. The published extract contains 2025 orders and related consignments recorded through 31 December 2025. All data is synthetic; values are in NGN.
 
 ### Future project packs
 
-New Kora packs and other project families will be added as **separate resources**. A new pack should never replace an existing pack merely because it belongs to the same family.
+New Kora packs and other project families will be added as **separate resources**. 
 
 ## Using and sharing these resources
 
-You may analyse the public practice data and publish your queries, dashboards and findings with credit to CadencePlus Solutions. Keep the fictional and synthetic labels.
+You may analyze the public practice data and publish your queries, dashboards and findings with credit to CadencePlus Solutions. Keep the fictional and synthetic labels.
 
-**Paid content is separate.** The paid Jathan Project Pack is **not** distributed through this public repository. A Learning Hub paywall does not protect files committed to a public GitHub repository.
-
-## For maintainers
-
-- Maintain each resource's own files and a stable unique ID in `resources.json`.
-- Add new categories and collections as needed; do not hardcode Kora as the entire catalogue.
-- The Kora pack is now inside the collection folder. Update external links that still point to its former location.
-- Follow [RESOURCE_PUBLISHING.md](RESOURCE_PUBLISHING.md) for publishing and verification steps.
