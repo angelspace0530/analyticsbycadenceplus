@@ -1,0 +1,26 @@
+name: Build Kora GitHub-editable project ZIP
+on:
+  push:
+    branches: [docs/kora-2025-github-editable]
+    paths:
+      - 'scripts/package_kora_editable.py'
+      - '.github/workflows/package-kora-editable.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: docs/kora-2025-github-editable
+      - name: Build ZIP and verify
+        run: python scripts/package_kora_editable.py
+      - name: Commit aligned files and ZIP
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A 'project packs/Kora/Kora - 2025 only'
+          git commit -m 'Publish editable Kora guides and aligned complete ZIP'
+          git push origin HEAD:docs/kora-2025-github-editable
