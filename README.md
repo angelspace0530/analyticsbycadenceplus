@@ -21,11 +21,12 @@ The machine-readable [resource catalogue](resources.json) lists **published** re
 
 #### [Kora - 2025 only](project%20packs/Kora/Kora%20-%202025%20only/)
 
-- [Read the project guide](project%20packs/Kora/Kora%20-%202025%20only/Kora-2025-only.pdf)
+- [Edit the Kora 2025 Project Guide](project%20packs/Kora/Kora%20-%202025%20only/Kora%202025%20Project%20Guide.md)
+- [Edit the Kora 2025 Database Setup Guide](project%20packs/Kora/Kora%20-%202025%20only/Kora%202025%20Database%20Setup%20Guide.md)
 - [Download the complete ZIP](project%20packs/Kora/Kora%20-%202025%20only/Kora-2025-only.zip?raw=true)
 - [Browse individual project files](project%20packs/Kora/Kora%20-%202025%20only/)
 
-Download the ZIP, extract it and open `Kora-2025-only.pdf`. The pack includes seven CSV tables, SQL Server, SQLite, PostgreSQL and MySQL setup resources, data references, starter queries and a findings template. The guide contains the database schema and two project briefs.
+Download the ZIP, extract it and open `Kora 2025 Project Guide.md` and `Kora 2025 Database Setup Guide.md`. The pack includes seven CSV tables, SQL Server, SQLite, PostgreSQL and MySQL setup resources, data references, starter queries and a findings template. The guide contains the database schema and two project briefs.
 
 Kora is a fictional Nigerian workplace supplier. The published extract contains 2025 orders and related consignments recorded through 31 December 2025. All data is synthetic; values are in NGN.
 
